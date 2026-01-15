@@ -1,0 +1,26 @@
+service_code,service_category,service_description
+SVC001,Imaging,Service description 1
+SVC002,Imaging,Service description 2
+SVC003,Inpatient,Service description 3
+SVC004,Preventive,Service description 4
+SVC005,Outpatient,Service description 5
+SVC006,Preventive,Service description 6
+SVC007,Preventive,Service description 7
+SVC008,Preventive,Service description 8
+SVC009,Inpatient,Service description 9
+SVC010,Inpatient,Service description 10
+SVC011,Outpatient,Service description 11
+SVC012,Preventive,Service description 12
+SVC013,Inpatient,Service description 13
+SVC014,Outpatient,Service description 14
+SVC015,Outpatient,Service description 15
+SVC016,Preventive,Service description 16
+SVC017,ED,Service description 17
+SVC018,Preventive,Service description 18
+SVC019,ED,Service description 19
+SVC020,Outpatient,Service description 20
+SVC021,Inpatient,Service description 21
+SVC022,Imaging,Service description 22
+SVC023,Outpatient,Service description 23
+SVC024,Inpatient,Service description 24
+SVC025,Outpatient,Service description 25

@@ -1,0 +1,121 @@
+provider_id,provider_type,specialty,service_area
+1,Hospital,Endocrinology,TX
+2,PCP,Primary Care,NM
+3,Specialist,Cardiology,AZ
+4,Specialist,Endocrinology,AZ
+5,PCP,Oncology,NM
+6,PCP,General,NM
+7,Specialist,Endocrinology,NM
+8,Hospital,Endocrinology,NM
+9,PCP,Endocrinology,TX
+10,Pharmacy,Primary Care,TX
+11,Specialist,Endocrinology,TX
+12,PCP,General,AZ
+13,Hospital,Cardiology,TX
+14,PCP,Cardiology,TX
+15,Specialist,Cardiology,NM
+16,Specialist,Cardiology,TX
+17,Specialist,Cardiology,TX
+18,Hospital,Endocrinology,AZ
+19,Hospital,Cardiology,NM
+20,Specialist,Endocrinology,AZ
+21,Pharmacy,Oncology,TX
+22,PCP,Oncology,TX
+23,PCP,General,NM
+24,Hospital,Endocrinology,NM
+25,Specialist,Oncology,NM
+26,Hospital,General,NM
+27,Specialist,Primary Care,TX
+28,Specialist,General,NM
+29,PCP,Endocrinology,AZ
+30,PCP,Endocrinology,TX
+31,Specialist,Endocrinology,AZ
+32,PCP,General,AZ
+33,Specialist,Oncology,NM
+34,PCP,Primary Care,NM
+35,PCP,Endocrinology,NM
+36,PCP,Cardiology,TX
+37,PCP,Primary Care,NM
+38,Hospital,Primary Care,TX
+39,PCP,Oncology,TX
+40,Specialist,Cardiology,TX
+41,Hospital,Endocrinology,AZ
+42,Pharmacy,Endocrinology,NM
+43,PCP,Oncology,NM
+44,Pharmacy,General,TX
+45,Pharmacy,Primary Care,AZ
+46,PCP,Cardiology,AZ
+47,Hospital,Oncology,TX
+48,PCP,Oncology,TX
+49,Specialist,Cardiology,NM
+50,Pharmacy,Cardiology,AZ
+51,Specialist,Oncology,AZ
+52,Specialist,Cardiology,NM
+53,Hospital,Oncology,TX
+54,Specialist,General,TX
+55,PCP,Cardiology,TX
+56,Hospital,Endocrinology,NM
+57,PCP,General,NM
+58,PCP,Oncology,AZ
+59,Specialist,Endocrinology,NM
+60,Specialist,Endocrinology,TX
+61,Specialist,General,TX
+62,Hospital,Primary Care,NM
+63,Specialist,Endocrinology,AZ
+64,Pharmacy,Endocrinology,NM
+65,PCP,Endocrinology,TX
+66,PCP,General,TX
+67,PCP,Primary Care,TX
+68,PCP,Primary Care,NM
+69,Specialist,General,NM
+70,PCP,Oncology,TX
+71,Hospital,Endocrinology,TX
+72,PCP,Oncology,AZ
+73,Specialist,General,AZ
+74,Specialist,Primary Care,NM
+75,Specialist,Endocrinology,NM
+76,Pharmacy,General,NM
+77,Pharmacy,Primary Care,TX
+78,PCP,Cardiology,NM
+79,PCP,Endocrinology,TX
+80,Hospital,General,TX
+81,PCP,Cardiology,TX
+82,Hospital,Primary Care,AZ
+83,Specialist,Oncology,NM
+84,PCP,Primary Care,AZ
+85,Pharmacy,General,AZ
+86,Specialist,General,AZ
+87,PCP,Endocrinology,AZ
+88,PCP,Oncology,AZ
+89,Specialist,Cardiology,AZ
+90,Pharmacy,Endocrinology,TX
+91,Specialist,Primary Care,AZ
+92,PCP,Endocrinology,NM
+93,Specialist,General,NM
+94,PCP,Primary Care,NM
+95,Specialist,Oncology,TX
+96,Specialist,Endocrinology,TX
+97,Specialist,General,TX
+98,Hospital,Cardiology,AZ
+99,Pharmacy,Oncology,TX
+100,PCP,Cardiology,NM
+101,Pharmacy,Primary Care,AZ
+102,Pharmacy,General,TX
+103,PCP,Primary Care,AZ
+104,Specialist,General,NM
+105,Specialist,Endocrinology,TX
+106,PCP,Primary Care,NM
+107,Hospital,Primary Care,TX
+108,Pharmacy,Endocrinology,AZ
+109,PCP,General,AZ
+110,Hospital,Cardiology,TX
+111,PCP,General,TX
+112,PCP,Endocrinology,TX
+113,Specialist,Endocrinology,NM
+114,Hospital,General,TX
+115,Specialist,Primary Care,TX
+116,Specialist,Primary Care,NM
+117,Specialist,Endocrinology,TX
+118,Pharmacy,General,AZ
+119,Specialist,General,NM
+120,Pharmacy,Primary Care,TX

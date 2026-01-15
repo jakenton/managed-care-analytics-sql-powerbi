@@ -1,0 +1,1201 @@
+member_id,service_area,subregion,plan_type,risk_category,enrollment_start_date,enrollment_end_date
+1,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-04-02,2025-12-17
+2,NM,NM-Region-1,Medicare Advantage,Medium,2024-03-15,2025-10-05
+3,AZ,AZ-Region-2,Medicaid,Low,2024-01-02,2025-10-05
+4,AZ,AZ-Region-1,Medicaid,Low,2024-02-27,2025-12-10
+5,NM,NM-Region-2,Medicaid,Medium,2024-06-18,2025-12-17
+6,AZ,AZ-Region-1,Medicare Advantage,Low,2024-03-04,2025-08-23
+7,AZ,AZ-Region-2,Medicare Advantage,Low,2024-05-11,2025-10-04
+8,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-03-24,2025-10-01
+9,TX,TX-Region-2,Medicare Advantage,Low,2024-02-04,2025-10-12
+10,NM,NM-Region-2,Medicaid,High,2024-04-15,2025-12-28
+11,NM,NM-Region-3,Medicaid,Low,2024-01-14,2025-09-28
+12,AZ,AZ-Region-3,Medicare Advantage,Low,2024-02-09,2025-10-11
+13,AZ,AZ-Region-1,Medicare Advantage,Low,2024-05-03,2025-11-21
+14,TX,TX-Region-3,Medicare Advantage,Medium,2024-03-28,2025-08-25
+15,TX,TX-Region-1,Medicare Advantage,Medium,2024-02-02,2025-08-31
+16,TX,TX-Region-2,Medicaid,Low,2024-03-12,2025-12-20
+17,TX,TX-Region-2,Medicare Advantage,Medium,2024-02-06,2025-09-24
+18,AZ,AZ-Region-1,Medicaid,Medium,2024-05-10,2025-12-31
+19,NM,NM-Region-2,Medicaid,Low,2024-05-16,2025-12-17
+20,AZ,AZ-Region-2,Medicaid,Medium,2024-02-21,2025-09-27
+21,NM,NM-Region-1,Medicaid,Low,2024-01-29,2025-11-26
+22,AZ,AZ-Region-1,Medicaid,Low,2024-03-06,2025-07-15
+23,NM,NM-Region-2,Medicare Advantage,Low,2024-04-17,2025-11-18
+24,AZ,AZ-Region-3,Medicaid,High,2024-05-08,2025-09-02
+25,TX,TX-Region-1,Medicaid,Medium,2024-04-12,2025-07-30
+26,AZ,AZ-Region-2,Medicaid,Medium,2024-05-31,2025-11-03
+27,NM,NM-Region-2,Medicare Advantage,Medium,2024-03-02,2025-11-10
+28,AZ,AZ-Region-2,Medicaid,Low,2024-03-21,2025-09-10
+29,AZ,AZ-Region-2,Medicaid,Medium,2024-05-08,2025-08-07
+30,TX,TX-Region-3,Medicare Advantage,Low,2024-06-08,2025-10-25
+31,TX,TX-Region-2,Medicare Advantage,Medium,2024-01-24,2025-10-24
+32,AZ,AZ-Region-3,Medicaid,Low,2024-04-06,2025-08-30
+33,NM,NM-Region-2,Medicaid,Low,2024-06-12,2025-08-07
+34,NM,NM-Region-3,Medicare Advantage,Low,2024-02-21,2025-07-24
+35,AZ,AZ-Region-3,Medicare Advantage,Low,2024-06-26,2025-08-03
+36,TX,TX-Region-1,Medicaid,Low,2024-03-30,2025-09-11
+37,TX,TX-Region-3,Medicaid,Low,2024-05-19,2025-11-25
+38,TX,TX-Region-2,Medicare Advantage,Medium,2024-05-10,2025-08-06
+39,AZ,AZ-Region-2,Medicaid,Low,2024-06-12,2025-07-19
+40,TX,TX-Region-2,Medicaid,Medium,2024-04-02,2025-08-08
+41,TX,TX-Region-1,Medicaid,Low,2024-06-17,2025-07-24
+42,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-05-15,2025-08-19
+43,AZ,AZ-Region-2,Medicaid,High,2024-04-24,2025-09-04
+44,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-01-08,2025-12-05
+45,NM,NM-Region-3,Medicaid,Medium,2024-03-01,2025-11-14
+46,AZ,AZ-Region-1,Medicaid,High,2024-06-20,2025-07-27
+47,TX,TX-Region-1,Medicaid,High,2024-02-06,2025-12-08
+48,TX,TX-Region-3,Medicaid,Medium,2024-04-25,2025-07-25
+49,AZ,AZ-Region-3,Medicaid,Low,2024-02-23,2025-11-04
+50,NM,NM-Region-2,Medicaid,Low,2024-03-26,2025-08-03
+51,AZ,AZ-Region-1,Medicare Advantage,Low,2024-04-13,2025-07-24
+52,AZ,AZ-Region-2,Medicare Advantage,High,2024-01-26,2025-09-24
+53,NM,NM-Region-1,Medicaid,Low,2024-02-26,2025-11-26
+54,AZ,AZ-Region-3,Medicaid,Medium,2024-05-21,2025-09-08
+55,NM,NM-Region-1,Medicaid,High,2024-03-26,2025-11-11
+56,TX,TX-Region-1,Medicaid,High,2024-02-27,2025-10-07
+57,AZ,AZ-Region-1,Medicaid,High,2024-04-10,2025-12-24
+58,NM,NM-Region-2,Medicaid,Medium,2024-01-06,2025-09-14
+59,TX,TX-Region-2,Medicaid,Medium,2024-01-13,2025-09-09
+60,AZ,AZ-Region-3,Medicaid,Low,2024-04-01,2025-11-04
+61,AZ,AZ-Region-1,Medicaid,High,2024-05-06,2025-08-17
+62,NM,NM-Region-2,Medicare Advantage,Medium,2024-04-05,2025-08-28
+63,AZ,AZ-Region-2,Medicare Advantage,Low,2024-01-16,2025-10-24
+64,NM,NM-Region-1,Medicaid,Low,2024-06-27,2025-10-07
+65,AZ,AZ-Region-2,Medicare Advantage,High,2024-04-03,2025-08-10
+66,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-04-10,2025-12-09
+67,AZ,AZ-Region-2,Medicaid,Medium,2024-05-17,2025-08-07
+68,TX,TX-Region-3,Medicare Advantage,High,2024-01-16,2025-12-08
+69,NM,NM-Region-2,Medicaid,Low,2024-03-24,2025-08-02
+70,TX,TX-Region-3,Medicare Advantage,Medium,2024-06-19,2025-09-22
+71,AZ,AZ-Region-3,Medicaid,Low,2024-01-29,2025-08-13
+72,NM,NM-Region-1,Medicare Advantage,Low,2024-03-21,2025-10-03
+73,TX,TX-Region-2,Medicare Advantage,Medium,2024-04-14,2025-08-19
+74,TX,TX-Region-1,Medicaid,Low,2024-06-12,2025-12-11
+75,TX,TX-Region-2,Medicaid,Medium,2024-06-25,2025-09-24
+76,TX,TX-Region-1,Medicare Advantage,Medium,2024-02-06,2025-12-20
+77,AZ,AZ-Region-1,Medicaid,High,2024-01-30,2025-12-15
+78,AZ,AZ-Region-1,Medicare Advantage,Low,2024-01-19,2025-07-08
+79,AZ,AZ-Region-3,Medicaid,Low,2024-05-07,2025-11-10
+80,AZ,AZ-Region-3,Medicaid,High,2024-05-19,2025-12-07
+81,TX,TX-Region-1,Medicaid,Low,2024-02-08,2025-09-14
+82,NM,NM-Region-3,Medicaid,Medium,2024-05-12,2025-07-22
+83,TX,TX-Region-2,Medicare Advantage,Low,2024-01-09,2025-10-19
+84,AZ,AZ-Region-2,Medicaid,High,2024-05-20,2025-07-17
+85,AZ,AZ-Region-2,Medicare Advantage,Low,2024-01-29,2025-07-20
+86,AZ,AZ-Region-1,Medicaid,Low,2024-05-24,2025-10-22
+87,TX,TX-Region-2,Medicare Advantage,Low,2024-01-19,2025-09-15
+88,AZ,AZ-Region-1,Medicaid,Medium,2024-05-05,2025-07-12
+89,TX,TX-Region-1,Medicare Advantage,Medium,2024-03-01,2025-08-27
+90,AZ,AZ-Region-1,Medicaid,High,2024-04-22,2025-08-01
+91,AZ,AZ-Region-1,Medicaid,Low,2024-06-08,2025-07-12
+92,TX,TX-Region-1,Medicaid,Medium,2024-06-12,2025-08-07
+93,TX,TX-Region-1,Medicare Advantage,Low,2024-06-07,2025-12-31
+94,TX,TX-Region-2,Medicaid,Medium,2024-01-12,2025-10-19
+95,AZ,AZ-Region-2,Medicaid,Low,2024-04-01,2025-07-21
+96,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-04-10,2025-11-21
+97,AZ,AZ-Region-2,Medicaid,High,2024-06-05,2025-08-13
+98,NM,NM-Region-2,Medicaid,High,2024-02-16,2025-08-01
+99,NM,NM-Region-1,Medicare Advantage,Medium,2024-01-05,2025-09-04
+100,TX,TX-Region-2,Medicaid,High,2024-01-11,2025-10-08
+101,TX,TX-Region-1,Medicaid,Low,2024-06-09,2025-09-25
+102,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-01-06,2025-09-28
+103,TX,TX-Region-1,Medicaid,Low,2024-06-13,2025-10-10
+104,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-06-21,2025-12-28
+105,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-04-04,2025-10-21
+106,TX,TX-Region-1,Medicaid,Medium,2024-05-02,2025-11-12
+107,TX,TX-Region-3,Medicaid,Medium,2024-02-26,2025-08-09
+108,NM,NM-Region-3,Medicare Advantage,Medium,2024-03-06,2025-10-18
+109,TX,TX-Region-2,Medicaid,Low,2024-02-19,2025-09-25
+110,TX,TX-Region-1,Medicare Advantage,Low,2024-02-21,2025-07-19
+111,NM,NM-Region-1,Medicare Advantage,Medium,2024-02-20,2025-10-12
+112,TX,TX-Region-1,Medicare Advantage,Medium,2024-01-17,2025-10-09
+113,AZ,AZ-Region-3,Medicaid,Low,2024-02-12,2025-09-08
+114,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-04-27,2025-08-10
+115,TX,TX-Region-2,Medicaid,High,2024-06-26,2025-11-01
+116,AZ,AZ-Region-2,Medicaid,Low,2024-06-18,2025-11-01
+117,NM,NM-Region-2,Medicaid,Low,2024-03-30,2025-11-16
+118,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-01-26,2025-11-15
+119,AZ,AZ-Region-1,Medicaid,High,2024-02-17,2025-11-01
+120,TX,TX-Region-3,Medicare Advantage,Low,2024-06-28,2025-11-15
+121,TX,TX-Region-1,Medicaid,Low,2024-03-18,2025-08-24
+122,AZ,AZ-Region-3,Medicaid,Medium,2024-01-03,2025-09-12
+123,AZ,AZ-Region-3,Medicaid,Medium,2024-02-07,2025-09-08
+124,AZ,AZ-Region-3,Medicaid,Medium,2024-02-08,2025-12-15
+125,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-01-13,2025-12-07
+126,AZ,AZ-Region-3,Medicare Advantage,Low,2024-04-20,2025-11-28
+127,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-06-17,2025-09-22
+128,AZ,AZ-Region-2,Medicare Advantage,Low,2024-02-28,2025-09-14
+129,AZ,AZ-Region-2,Medicaid,Low,2024-03-10,2025-09-11
+130,AZ,AZ-Region-3,Medicaid,Low,2024-02-24,2025-08-17
+131,TX,TX-Region-2,Medicaid,High,2024-05-31,2025-12-26
+132,AZ,AZ-Region-2,Medicaid,Medium,2024-04-27,2025-09-10
+133,TX,TX-Region-2,Medicaid,Medium,2024-03-19,2025-08-18
+134,AZ,AZ-Region-3,Medicaid,Medium,2024-04-27,2025-10-25
+135,NM,NM-Region-2,Medicaid,Medium,2024-01-01,2025-10-03
+136,AZ,AZ-Region-3,Medicaid,Low,2024-04-09,2025-10-16
+137,NM,NM-Region-2,Medicare Advantage,Low,2024-01-05,2025-08-03
+138,TX,TX-Region-1,Medicaid,Low,2024-03-05,2025-10-30
+139,NM,NM-Region-2,Medicaid,High,2024-02-07,2025-07-22
+140,TX,TX-Region-1,Medicare Advantage,High,2024-06-26,2025-10-15
+141,AZ,AZ-Region-2,Medicaid,Medium,2024-02-04,2025-12-31
+142,TX,TX-Region-2,Medicare Advantage,Low,2024-01-14,2025-11-02
+143,AZ,AZ-Region-2,Medicaid,High,2024-03-18,2025-07-31
+144,AZ,AZ-Region-3,Medicare Advantage,High,2024-02-09,2025-10-21
+145,NM,NM-Region-3,Medicaid,Low,2024-04-06,2025-12-09
+146,TX,TX-Region-3,Medicaid,Low,2024-02-22,2025-09-19
+147,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-06-27,2025-11-20
+148,TX,TX-Region-1,Medicaid,Low,2024-06-03,2025-07-21
+149,AZ,AZ-Region-2,Medicare Advantage,High,2024-02-02,2025-10-07
+150,AZ,AZ-Region-3,Medicaid,Medium,2024-02-07,2025-08-13
+151,NM,NM-Region-1,Medicaid,Low,2024-01-15,2025-07-28
+152,TX,TX-Region-3,Medicare Advantage,Medium,2024-06-03,2025-09-28
+153,AZ,AZ-Region-3,Medicare Advantage,Low,2024-03-09,2025-08-06
+154,AZ,AZ-Region-2,Medicare Advantage,Low,2024-01-23,2025-11-15
+155,NM,NM-Region-3,Medicare Advantage,Medium,2024-04-20,2025-09-19
+156,TX,TX-Region-3,Medicaid,Medium,2024-04-29,2025-11-25
+157,NM,NM-Region-2,Medicare Advantage,High,2024-02-20,2025-12-03
+158,NM,NM-Region-1,Medicaid,Low,2024-02-15,2025-09-22
+159,TX,TX-Region-2,Medicaid,Medium,2024-01-01,2025-10-30
+160,AZ,AZ-Region-2,Medicare Advantage,Low,2024-02-22,2025-08-17
+161,AZ,AZ-Region-2,Medicare Advantage,Low,2024-03-03,2025-12-07
+162,AZ,AZ-Region-1,Medicaid,Low,2024-06-10,2025-10-02
+163,TX,TX-Region-3,Medicaid,Low,2024-05-31,2025-12-07
+164,AZ,AZ-Region-3,Medicare Advantage,Low,2024-01-29,2025-10-30
+165,TX,TX-Region-1,Medicaid,Low,2024-03-21,2025-10-09
+166,AZ,AZ-Region-3,Medicaid,Low,2024-04-13,2025-11-13
+167,TX,TX-Region-2,Medicaid,Low,2024-05-02,2025-10-31
+168,NM,NM-Region-2,Medicaid,Medium,2024-06-16,2025-12-13
+169,NM,NM-Region-2,Medicaid,Low,2024-04-22,2025-09-09
+170,AZ,AZ-Region-3,Medicare Advantage,Low,2024-06-05,2025-11-07
+171,TX,TX-Region-1,Medicaid,Low,2024-06-10,2025-08-30
+172,TX,TX-Region-1,Medicaid,Low,2024-04-02,2025-12-24
+173,AZ,AZ-Region-1,Medicare Advantage,Low,2024-03-12,2025-11-08
+174,TX,TX-Region-3,Medicaid,Medium,2024-01-08,2025-07-23
+175,TX,TX-Region-2,Medicaid,Low,2024-05-23,2025-07-20
+176,TX,TX-Region-3,Medicare Advantage,High,2024-01-07,2025-10-19
+177,AZ,AZ-Region-1,Medicaid,High,2024-05-26,2025-11-26
+178,TX,TX-Region-2,Medicare Advantage,Low,2024-05-27,2025-12-21
+179,AZ,AZ-Region-1,Medicaid,Medium,2024-01-20,2025-12-27
+180,NM,NM-Region-2,Medicare Advantage,Low,2024-06-20,2025-09-24
+181,TX,TX-Region-2,Medicaid,Low,2024-04-29,2025-11-03
+182,NM,NM-Region-2,Medicare Advantage,Low,2024-01-14,2025-12-23
+183,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-01-04,2025-07-31
+184,TX,TX-Region-1,Medicare Advantage,Medium,2024-03-10,2025-08-08
+185,AZ,AZ-Region-2,Medicare Advantage,Low,2024-06-13,2025-08-01
+186,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-01-27,2025-11-05
+187,NM,NM-Region-1,Medicare Advantage,Low,2024-02-22,2025-08-16
+188,TX,TX-Region-2,Medicaid,Medium,2024-02-15,2025-10-29
+189,AZ,AZ-Region-2,Medicaid,High,2024-02-05,2025-09-08
+190,NM,NM-Region-3,Medicaid,Medium,2024-06-12,2025-09-10
+191,NM,NM-Region-2,Medicaid,Medium,2024-04-20,2025-08-02
+192,AZ,AZ-Region-2,Medicare Advantage,Low,2024-05-27,2025-10-12
+193,NM,NM-Region-1,Medicaid,Medium,2024-03-13,2025-11-22
+194,NM,NM-Region-3,Medicare Advantage,Medium,2024-01-25,2025-11-23
+195,TX,TX-Region-3,Medicaid,High,2024-04-11,2025-09-25
+196,TX,TX-Region-1,Medicaid,Low,2024-01-17,2025-10-19
+197,NM,NM-Region-3,Medicare Advantage,Medium,2024-03-23,2025-12-24
+198,TX,TX-Region-3,Medicare Advantage,Low,2024-01-25,2025-10-04
+199,TX,TX-Region-3,Medicare Advantage,Medium,2024-02-01,2025-12-22
+200,NM,NM-Region-3,Medicare Advantage,Low,2024-05-14,2025-12-18
+201,TX,TX-Region-3,Medicare Advantage,High,2024-02-28,2025-10-11
+202,AZ,AZ-Region-2,Medicaid,Low,2024-04-12,2025-12-15
+203,AZ,AZ-Region-1,Medicaid,Low,2024-04-07,2025-08-23
+204,NM,NM-Region-1,Medicaid,Medium,2024-02-08,2025-12-17
+205,TX,TX-Region-1,Medicare Advantage,Low,2024-06-09,2025-12-16
+206,AZ,AZ-Region-2,Medicaid,Low,2024-06-18,2025-11-28
+207,AZ,AZ-Region-3,Medicaid,Low,2024-04-05,2025-08-31
+208,AZ,AZ-Region-3,Medicaid,Low,2024-03-02,2025-12-16
+209,AZ,AZ-Region-1,Medicaid,Low,2024-03-24,2025-08-21
+210,AZ,AZ-Region-2,Medicaid,Low,2024-06-06,2025-10-25
+211,AZ,AZ-Region-1,Medicaid,Low,2024-03-13,2025-08-11
+212,TX,TX-Region-1,Medicaid,Low,2024-02-06,2025-11-01
+213,TX,TX-Region-3,Medicare Advantage,High,2024-02-15,2025-10-05
+214,TX,TX-Region-1,Medicare Advantage,Medium,2024-01-04,2025-11-03
+215,NM,NM-Region-2,Medicaid,Low,2024-03-14,2025-09-16
+216,TX,TX-Region-1,Medicaid,High,2024-04-29,2025-12-26
+217,TX,TX-Region-2,Medicaid,Low,2024-04-08,2025-12-12
+218,NM,NM-Region-1,Medicaid,High,2024-03-22,2025-10-31
+219,AZ,AZ-Region-3,Medicaid,High,2024-04-29,2025-08-29
+220,TX,TX-Region-3,Medicaid,Medium,2024-01-11,2025-09-18
+221,AZ,AZ-Region-1,Medicaid,High,2024-03-16,2025-07-15
+222,TX,TX-Region-3,Medicare Advantage,Medium,2024-05-03,2025-11-24
+223,AZ,AZ-Region-1,Medicare Advantage,High,2024-02-29,2025-07-09
+224,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-02-14,2025-10-31
+225,TX,TX-Region-1,Medicaid,High,2024-02-09,2025-10-02
+226,TX,TX-Region-1,Medicaid,Low,2024-06-16,2025-10-01
+227,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-02-14,2025-10-04
+228,TX,TX-Region-3,Medicare Advantage,Medium,2024-01-07,2025-08-21
+229,TX,TX-Region-3,Medicaid,High,2024-06-18,2025-08-16
+230,AZ,AZ-Region-1,Medicaid,Low,2024-01-02,2025-10-16
+231,AZ,AZ-Region-1,Medicare Advantage,Low,2024-06-03,2025-09-10
+232,NM,NM-Region-3,Medicaid,Low,2024-03-28,2025-09-14
+233,AZ,AZ-Region-3,Medicare Advantage,Low,2024-03-03,2025-07-29
+234,TX,TX-Region-3,Medicaid,Medium,2024-04-05,2025-10-25
+235,TX,TX-Region-2,Medicaid,High,2024-04-27,2025-12-10
+236,TX,TX-Region-3,Medicaid,Medium,2024-06-23,2025-12-03
+237,AZ,AZ-Region-2,Medicaid,High,2024-05-18,2025-11-29
+238,AZ,AZ-Region-2,Medicare Advantage,Low,2024-01-26,2025-07-11
+239,NM,NM-Region-3,Medicare Advantage,Low,2024-02-08,2025-12-17
+240,TX,TX-Region-2,Medicaid,High,2024-06-23,2025-10-09
+241,TX,TX-Region-3,Medicaid,Medium,2024-04-01,2025-12-11
+242,AZ,AZ-Region-2,Medicare Advantage,Low,2024-05-10,2025-12-31
+243,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-03-04,2025-12-07
+244,TX,TX-Region-1,Medicare Advantage,Medium,2024-06-22,2025-08-09
+245,TX,TX-Region-1,Medicare Advantage,High,2024-05-10,2025-09-30
+246,AZ,AZ-Region-2,Medicaid,Low,2024-01-15,2025-08-01
+247,TX,TX-Region-1,Medicaid,Medium,2024-01-09,2025-07-19
+248,AZ,AZ-Region-3,Medicare Advantage,Low,2024-05-09,2025-10-05
+249,NM,NM-Region-2,Medicare Advantage,Medium,2024-03-04,2025-10-11
+250,TX,TX-Region-1,Medicaid,Medium,2024-02-02,2025-09-21
+251,AZ,AZ-Region-1,Medicaid,Low,2024-05-24,2025-10-17
+252,NM,NM-Region-1,Medicaid,Low,2024-04-01,2025-08-06
+253,AZ,AZ-Region-1,Medicaid,Low,2024-01-02,2025-11-29
+254,AZ,AZ-Region-2,Medicare Advantage,Low,2024-05-29,2025-09-20
+255,TX,TX-Region-3,Medicare Advantage,High,2024-05-22,2025-09-17
+256,AZ,AZ-Region-1,Medicare Advantage,Low,2024-05-02,2025-08-20
+257,NM,NM-Region-2,Medicare Advantage,Medium,2024-04-23,2025-12-24
+258,NM,NM-Region-3,Medicare Advantage,Medium,2024-05-06,2025-12-25
+259,TX,TX-Region-3,Medicaid,Low,2024-06-02,2025-08-27
+260,NM,NM-Region-1,Medicaid,Medium,2024-01-12,2025-10-06
+261,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-04-09,2025-07-12
+262,NM,NM-Region-3,Medicaid,High,2024-03-22,2025-08-08
+263,TX,TX-Region-2,Medicaid,Low,2024-05-10,2025-07-29
+264,NM,NM-Region-1,Medicare Advantage,Medium,2024-04-06,2025-08-19
+265,TX,TX-Region-2,Medicare Advantage,Low,2024-05-27,2025-11-25
+266,TX,TX-Region-2,Medicare Advantage,Medium,2024-04-05,2025-09-18
+267,TX,TX-Region-2,Medicare Advantage,High,2024-06-10,2025-07-21
+268,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-05-04,2025-12-20
+269,TX,TX-Region-2,Medicaid,Low,2024-04-08,2025-12-06
+270,TX,TX-Region-1,Medicaid,Low,2024-04-28,2025-11-25
+271,AZ,AZ-Region-2,Medicaid,Low,2024-05-04,2025-09-12
+272,NM,NM-Region-3,Medicaid,Low,2024-03-10,2025-08-09
+273,TX,TX-Region-1,Medicaid,Low,2024-01-05,2025-07-17
+274,TX,TX-Region-2,Medicaid,Medium,2024-04-27,2025-12-18
+275,AZ,AZ-Region-3,Medicare Advantage,Low,2024-05-12,2025-12-12
+276,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-01-28,2025-09-02
+277,NM,NM-Region-3,Medicare Advantage,Low,2024-04-29,2025-11-18
+278,AZ,AZ-Region-2,Medicaid,Low,2024-04-23,2025-10-15
+279,AZ,AZ-Region-3,Medicaid,High,2024-01-01,2025-09-04
+280,AZ,AZ-Region-2,Medicaid,Medium,2024-06-27,2025-12-20
+281,TX,TX-Region-1,Medicare Advantage,Medium,2024-05-05,2025-11-12
+282,NM,NM-Region-2,Medicaid,Low,2024-06-26,2025-08-03
+283,AZ,AZ-Region-2,Medicare Advantage,Low,2024-03-20,2025-07-07
+284,AZ,AZ-Region-2,Medicare Advantage,Low,2024-01-08,2025-07-28
+285,TX,TX-Region-2,Medicaid,Low,2024-02-24,2025-09-04
+286,AZ,AZ-Region-3,Medicaid,Low,2024-01-26,2025-08-18
+287,TX,TX-Region-1,Medicaid,Medium,2024-02-15,2025-11-29
+288,AZ,AZ-Region-2,Medicaid,Low,2024-03-09,2025-09-18
+289,NM,NM-Region-1,Medicaid,High,2024-03-03,2025-10-20
+290,TX,TX-Region-1,Medicaid,Medium,2024-03-17,2025-07-26
+291,TX,TX-Region-3,Medicare Advantage,Medium,2024-05-11,2025-09-21
+292,TX,TX-Region-3,Medicaid,Low,2024-03-23,2025-09-14
+293,NM,NM-Region-2,Medicaid,Medium,2024-05-22,2025-10-28
+294,AZ,AZ-Region-1,Medicaid,Low,2024-06-09,2025-11-13
+295,NM,NM-Region-2,Medicaid,Low,2024-04-19,2025-10-19
+296,TX,TX-Region-1,Medicare Advantage,Low,2024-02-17,2025-07-29
+297,AZ,AZ-Region-3,Medicaid,Medium,2024-02-17,2025-11-25
+298,TX,TX-Region-2,Medicare Advantage,Medium,2024-03-10,2025-11-16
+299,TX,TX-Region-3,Medicaid,High,2024-04-16,2025-10-13
+300,TX,TX-Region-1,Medicaid,Low,2024-02-20,2025-12-17
+301,AZ,AZ-Region-2,Medicaid,High,2024-04-26,2025-11-10
+302,NM,NM-Region-2,Medicare Advantage,Low,2024-05-23,2025-09-17
+303,NM,NM-Region-3,Medicaid,High,2024-03-29,2025-09-29
+304,TX,TX-Region-3,Medicaid,Medium,2024-06-07,2025-10-22
+305,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-02-05,2025-10-09
+306,AZ,AZ-Region-3,Medicaid,Medium,2024-04-15,2025-11-15
+307,NM,NM-Region-1,Medicare Advantage,Low,2024-05-16,2025-12-06
+308,AZ,AZ-Region-1,Medicaid,Medium,2024-06-18,2025-10-21
+309,AZ,AZ-Region-3,Medicare Advantage,Low,2024-01-19,2025-09-23
+310,NM,NM-Region-1,Medicare Advantage,High,2024-03-09,2025-07-10
+311,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-05-29,2025-07-09
+312,NM,NM-Region-1,Medicaid,Medium,2024-05-17,2025-10-15
+313,TX,TX-Region-1,Medicare Advantage,Low,2024-02-04,2025-12-25
+314,NM,NM-Region-2,Medicaid,Medium,2024-06-17,2025-12-08
+315,NM,NM-Region-2,Medicaid,Medium,2024-06-15,2025-09-14
+316,NM,NM-Region-1,Medicaid,Low,2024-03-13,2025-08-18
+317,AZ,AZ-Region-2,Medicare Advantage,Low,2024-02-18,2025-11-02
+318,NM,NM-Region-3,Medicaid,Low,2024-01-08,2025-11-12
+319,AZ,AZ-Region-3,Medicaid,Low,2024-03-10,2025-08-24
+320,TX,TX-Region-2,Medicaid,High,2024-01-30,2025-09-07
+321,AZ,AZ-Region-1,Medicaid,Low,2024-01-31,2025-11-15
+322,NM,NM-Region-1,Medicaid,High,2024-02-24,2025-08-10
+323,NM,NM-Region-3,Medicaid,High,2024-01-30,2025-12-09
+324,TX,TX-Region-1,Medicare Advantage,Low,2024-04-17,2025-10-28
+325,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-02-01,2025-07-24
+326,TX,TX-Region-1,Medicaid,Low,2024-05-21,2025-11-26
+327,AZ,AZ-Region-3,Medicaid,Low,2024-01-02,2025-10-18
+328,NM,NM-Region-3,Medicare Advantage,Medium,2024-02-24,2025-12-26
+329,NM,NM-Region-2,Medicaid,Medium,2024-01-12,2025-11-13
+330,TX,TX-Region-3,Medicare Advantage,Low,2024-06-06,2025-08-20
+331,AZ,AZ-Region-2,Medicaid,Low,2024-05-28,2025-07-22
+332,TX,TX-Region-2,Medicaid,High,2024-01-10,2025-12-07
+333,TX,TX-Region-2,Medicare Advantage,High,2024-01-14,2025-10-28
+334,AZ,AZ-Region-1,Medicare Advantage,Low,2024-06-17,2025-08-20
+335,NM,NM-Region-1,Medicaid,High,2024-01-25,2025-10-14
+336,NM,NM-Region-2,Medicare Advantage,Low,2024-05-20,2025-12-01
+337,TX,TX-Region-3,Medicare Advantage,Medium,2024-06-08,2025-09-30
+338,AZ,AZ-Region-2,Medicaid,Medium,2024-01-05,2025-07-23
+339,TX,TX-Region-3,Medicare Advantage,Low,2024-06-07,2025-11-06
+340,AZ,AZ-Region-2,Medicaid,Low,2024-03-13,2025-07-29
+341,TX,TX-Region-3,Medicaid,Low,2024-04-06,2025-12-28
+342,AZ,AZ-Region-2,Medicaid,Low,2024-02-21,2025-07-21
+343,TX,TX-Region-3,Medicaid,High,2024-03-02,2025-12-25
+344,TX,TX-Region-2,Medicaid,Low,2024-03-26,2025-08-21
+345,NM,NM-Region-2,Medicare Advantage,Low,2024-03-19,2025-08-05
+346,NM,NM-Region-1,Medicare Advantage,Medium,2024-01-13,2025-10-11
+347,AZ,AZ-Region-3,Medicaid,Low,2024-05-18,2025-08-05
+348,TX,TX-Region-3,Medicaid,Low,2024-04-21,2025-10-11
+349,NM,NM-Region-1,Medicaid,Low,2024-01-21,2025-11-20
+350,TX,TX-Region-2,Medicaid,Low,2024-06-17,2025-08-25
+351,TX,TX-Region-3,Medicaid,Low,2024-02-27,2025-12-11
+352,NM,NM-Region-1,Medicaid,Medium,2024-06-25,2025-10-14
+353,AZ,AZ-Region-1,Medicaid,Low,2024-06-08,2025-07-13
+354,AZ,AZ-Region-1,Medicaid,Low,2024-03-27,2025-11-19
+355,AZ,AZ-Region-1,Medicaid,Medium,2024-05-12,2025-08-06
+356,TX,TX-Region-3,Medicare Advantage,Low,2024-06-28,2025-08-11
+357,AZ,AZ-Region-2,Medicare Advantage,Low,2024-01-05,2025-12-27
+358,NM,NM-Region-1,Medicaid,Medium,2024-04-20,2025-09-11
+359,NM,NM-Region-2,Medicaid,Low,2024-06-26,2025-11-13
+360,TX,TX-Region-2,Medicare Advantage,Low,2024-04-28,2025-09-09
+361,TX,TX-Region-1,Medicare Advantage,Medium,2024-04-27,2025-12-19
+362,NM,NM-Region-3,Medicaid,Medium,2024-01-11,2025-12-22
+363,AZ,AZ-Region-2,Medicare Advantage,High,2024-02-28,2025-10-15
+364,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-06-20,2025-11-30
+365,AZ,AZ-Region-3,Medicare Advantage,High,2024-02-01,2025-09-04
+366,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-05-20,2025-08-05
+367,TX,TX-Region-3,Medicaid,Medium,2024-03-26,2025-08-04
+368,TX,TX-Region-1,Medicare Advantage,High,2024-01-02,2025-12-03
+369,AZ,AZ-Region-1,Medicaid,Medium,2024-05-30,2025-10-05
+370,TX,TX-Region-3,Medicaid,Low,2024-01-03,2025-09-05
+371,NM,NM-Region-1,Medicaid,Medium,2024-01-25,2025-08-26
+372,AZ,AZ-Region-1,Medicare Advantage,Low,2024-05-08,2025-09-15
+373,AZ,AZ-Region-2,Medicaid,Medium,2024-03-04,2025-09-17
+374,TX,TX-Region-1,Medicaid,Medium,2024-06-03,2025-10-27
+375,NM,NM-Region-2,Medicare Advantage,Low,2024-03-30,2025-11-04
+376,TX,TX-Region-3,Medicare Advantage,High,2024-04-30,2025-12-12
+377,NM,NM-Region-3,Medicaid,Medium,2024-04-10,2025-08-22
+378,TX,TX-Region-2,Medicaid,Medium,2024-06-02,2025-11-25
+379,AZ,AZ-Region-1,Medicaid,Low,2024-02-07,2025-07-11
+380,TX,TX-Region-1,Medicaid,Medium,2024-01-14,2025-12-29
+381,NM,NM-Region-2,Medicare Advantage,Low,2024-01-24,2025-07-23
+382,TX,TX-Region-2,Medicaid,Medium,2024-02-18,2025-10-30
+383,TX,TX-Region-3,Medicare Advantage,Medium,2024-02-27,2025-09-06
+384,AZ,AZ-Region-3,Medicaid,Low,2024-04-03,2025-09-10
+385,AZ,AZ-Region-2,Medicare Advantage,Low,2024-02-16,2025-11-05
+386,NM,NM-Region-2,Medicare Advantage,Medium,2024-02-16,2025-08-11
+387,TX,TX-Region-1,Medicaid,Low,2024-03-30,2025-08-10
+388,AZ,AZ-Region-2,Medicare Advantage,Low,2024-04-16,2025-09-10
+389,NM,NM-Region-1,Medicaid,High,2024-04-18,2025-11-11
+390,AZ,AZ-Region-1,Medicaid,Low,2024-03-09,2025-09-30
+391,TX,TX-Region-2,Medicaid,Medium,2024-04-09,2025-10-23
+392,NM,NM-Region-1,Medicaid,Low,2024-05-08,2025-12-08
+393,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-04-17,2025-11-05
+394,AZ,AZ-Region-2,Medicaid,Low,2024-05-31,2025-09-15
+395,AZ,AZ-Region-2,Medicaid,Medium,2024-01-14,2025-09-03
+396,NM,NM-Region-1,Medicaid,Low,2024-03-10,2025-11-18
+397,AZ,AZ-Region-2,Medicaid,Low,2024-04-16,2025-12-11
+398,TX,TX-Region-3,Medicare Advantage,Low,2024-06-08,2025-08-06
+399,TX,TX-Region-2,Medicare Advantage,High,2024-04-29,2025-08-26
+400,AZ,AZ-Region-2,Medicaid,Low,2024-05-10,2025-10-06
+401,AZ,AZ-Region-1,Medicaid,Low,2024-03-25,2025-08-26
+402,TX,TX-Region-2,Medicaid,Medium,2024-05-06,2025-10-22
+403,AZ,AZ-Region-2,Medicaid,Medium,2024-04-07,2025-12-04
+404,NM,NM-Region-1,Medicaid,Low,2024-04-07,2025-09-25
+405,TX,TX-Region-2,Medicaid,Low,2024-02-26,2025-10-27
+406,TX,TX-Region-3,Medicaid,High,2024-03-26,2025-10-17
+407,NM,NM-Region-3,Medicare Advantage,Medium,2024-03-03,2025-11-13
+408,TX,TX-Region-1,Medicare Advantage,Low,2024-04-25,2025-08-11
+409,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-05-04,2025-07-17
+410,NM,NM-Region-1,Medicaid,Medium,2024-05-10,2025-11-18
+411,AZ,AZ-Region-3,Medicaid,Medium,2024-01-23,2025-10-04
+412,TX,TX-Region-1,Medicaid,Medium,2024-01-12,2025-10-19
+413,TX,TX-Region-2,Medicaid,Low,2024-02-16,2025-08-11
+414,TX,TX-Region-3,Medicare Advantage,Low,2024-01-12,2025-08-24
+415,TX,TX-Region-2,Medicaid,Low,2024-04-16,2025-11-22
+416,AZ,AZ-Region-3,Medicaid,Medium,2024-04-10,2025-07-25
+417,TX,TX-Region-1,Medicare Advantage,Medium,2024-01-19,2025-11-30
+418,TX,TX-Region-3,Medicaid,Medium,2024-03-03,2025-09-14
+419,AZ,AZ-Region-2,Medicaid,Low,2024-06-04,2025-09-21
+420,AZ,AZ-Region-1,Medicaid,High,2024-01-25,2025-08-23
+421,AZ,AZ-Region-2,Medicaid,Medium,2024-05-12,2025-12-23
+422,AZ,AZ-Region-1,Medicaid,Medium,2024-05-18,2025-07-10
+423,TX,TX-Region-2,Medicaid,Low,2024-01-30,2025-12-11
+424,AZ,AZ-Region-3,Medicaid,Medium,2024-02-10,2025-11-11
+425,NM,NM-Region-1,Medicare Advantage,Medium,2024-05-07,2025-08-04
+426,TX,TX-Region-1,Medicare Advantage,Low,2024-06-11,2025-11-29
+427,TX,TX-Region-3,Medicaid,Medium,2024-06-04,2025-11-15
+428,TX,TX-Region-3,Medicaid,High,2024-03-27,2025-08-26
+429,AZ,AZ-Region-3,Medicare Advantage,Low,2024-05-22,2025-12-11
+430,TX,TX-Region-1,Medicare Advantage,Medium,2024-05-24,2025-11-23
+431,AZ,AZ-Region-3,Medicaid,Low,2024-05-13,2025-08-03
+432,NM,NM-Region-2,Medicaid,High,2024-04-09,2025-10-21
+433,AZ,AZ-Region-1,Medicaid,Low,2024-03-24,2025-09-10
+434,TX,TX-Region-1,Medicaid,High,2024-05-29,2025-07-09
+435,TX,TX-Region-3,Medicare Advantage,Medium,2024-01-28,2025-07-12
+436,NM,NM-Region-3,Medicaid,Low,2024-04-30,2025-12-13
+437,AZ,AZ-Region-1,Medicaid,Low,2024-06-12,2025-07-17
+438,NM,NM-Region-3,Medicaid,Low,2024-03-29,2025-08-12
+439,TX,TX-Region-2,Medicare Advantage,Medium,2024-02-10,2025-10-25
+440,TX,TX-Region-1,Medicare Advantage,Low,2024-05-06,2025-12-16
+441,NM,NM-Region-2,Medicare Advantage,Medium,2024-01-11,2025-10-29
+442,AZ,AZ-Region-3,Medicaid,Medium,2024-01-20,2025-09-22
+443,NM,NM-Region-3,Medicare Advantage,High,2024-05-16,2025-10-25
+444,NM,NM-Region-3,Medicaid,High,2024-02-14,2025-10-06
+445,NM,NM-Region-3,Medicare Advantage,Low,2024-01-15,2025-09-18
+446,NM,NM-Region-1,Medicare Advantage,Low,2024-02-20,2025-11-24
+447,NM,NM-Region-2,Medicare Advantage,High,2024-01-28,2025-12-28
+448,AZ,AZ-Region-3,Medicare Advantage,Low,2024-06-10,2025-10-02
+449,NM,NM-Region-1,Medicaid,Low,2024-06-01,2025-08-09
+450,AZ,AZ-Region-1,Medicaid,Medium,2024-05-03,2025-09-17
+451,NM,NM-Region-1,Medicaid,Medium,2024-05-21,2025-11-27
+452,NM,NM-Region-1,Medicaid,Low,2024-02-18,2025-11-16
+453,AZ,AZ-Region-1,Medicaid,Low,2024-03-30,2025-11-23
+454,AZ,AZ-Region-1,Medicaid,Low,2024-02-23,2025-08-28
+455,NM,NM-Region-3,Medicare Advantage,Medium,2024-03-28,2025-12-11
+456,AZ,AZ-Region-3,Medicaid,Low,2024-01-11,2025-08-07
+457,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-04-17,2025-12-13
+458,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-02-14,2025-10-03
+459,TX,TX-Region-2,Medicaid,Low,2024-06-22,2025-10-06
+460,NM,NM-Region-2,Medicare Advantage,High,2024-03-22,2025-08-08
+461,TX,TX-Region-1,Medicaid,Low,2024-05-26,2025-07-29
+462,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-06-15,2025-12-30
+463,TX,TX-Region-2,Medicaid,Low,2024-01-10,2025-08-12
+464,AZ,AZ-Region-2,Medicaid,High,2024-01-03,2025-10-09
+465,AZ,AZ-Region-2,Medicaid,Low,2024-05-23,2025-09-29
+466,AZ,AZ-Region-1,Medicaid,High,2024-03-05,2025-11-07
+467,TX,TX-Region-3,Medicare Advantage,Low,2024-05-06,2025-08-01
+468,AZ,AZ-Region-3,Medicaid,Medium,2024-04-16,2025-08-08
+469,TX,TX-Region-2,Medicaid,Medium,2024-01-30,2025-09-15
+470,NM,NM-Region-3,Medicaid,Medium,2024-02-10,2025-10-30
+471,AZ,AZ-Region-1,Medicaid,Medium,2024-02-26,2025-09-05
+472,AZ,AZ-Region-1,Medicaid,Low,2024-01-07,2025-07-20
+473,AZ,AZ-Region-3,Medicaid,Medium,2024-05-25,2025-07-22
+474,NM,NM-Region-1,Medicaid,High,2024-04-22,2025-11-24
+475,NM,NM-Region-1,Medicaid,Medium,2024-03-05,2025-12-01
+476,AZ,AZ-Region-1,Medicaid,Low,2024-03-07,2025-10-18
+477,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-02-20,2025-11-12
+478,AZ,AZ-Region-1,Medicare Advantage,Low,2024-05-01,2025-08-29
+479,TX,TX-Region-1,Medicaid,High,2024-01-18,2025-09-10
+480,AZ,AZ-Region-1,Medicaid,Medium,2024-04-18,2025-12-10
+481,NM,NM-Region-3,Medicare Advantage,Low,2024-03-26,2025-11-09
+482,TX,TX-Region-2,Medicaid,Low,2024-04-18,2025-11-11
+483,AZ,AZ-Region-3,Medicaid,Low,2024-02-13,2025-08-15
+484,NM,NM-Region-3,Medicare Advantage,Low,2024-05-04,2025-08-13
+485,TX,TX-Region-2,Medicaid,Medium,2024-04-08,2025-10-11
+486,AZ,AZ-Region-1,Medicaid,Medium,2024-03-25,2025-12-24
+487,AZ,AZ-Region-1,Medicaid,Low,2024-03-04,2025-10-02
+488,NM,NM-Region-3,Medicaid,Medium,2024-05-28,2025-08-15
+489,AZ,AZ-Region-2,Medicaid,Medium,2024-02-15,2025-12-20
+490,TX,TX-Region-2,Medicaid,Low,2024-02-21,2025-09-27
+491,AZ,AZ-Region-3,Medicare Advantage,High,2024-06-09,2025-08-03
+492,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-06-27,2025-10-11
+493,TX,TX-Region-3,Medicaid,High,2024-06-11,2025-11-14
+494,NM,NM-Region-3,Medicaid,Low,2024-04-22,2025-09-27
+495,AZ,AZ-Region-3,Medicaid,Medium,2024-06-23,2025-12-01
+496,TX,TX-Region-2,Medicaid,Medium,2024-06-19,2025-10-26
+497,NM,NM-Region-3,Medicaid,High,2024-06-17,2025-08-02
+498,AZ,AZ-Region-2,Medicare Advantage,Low,2024-01-19,2025-09-09
+499,AZ,AZ-Region-1,Medicare Advantage,Low,2024-03-05,2025-11-26
+500,AZ,AZ-Region-1,Medicare Advantage,High,2024-05-15,2025-08-21
+501,NM,NM-Region-1,Medicare Advantage,Low,2024-04-13,2025-12-09
+502,TX,TX-Region-3,Medicaid,Medium,2024-04-11,2025-10-18
+503,NM,NM-Region-1,Medicaid,High,2024-02-03,2025-11-17
+504,TX,TX-Region-2,Medicare Advantage,Medium,2024-05-24,2025-09-04
+505,AZ,AZ-Region-3,Medicaid,Low,2024-01-13,2025-09-12
+506,TX,TX-Region-3,Medicare Advantage,Low,2024-04-29,2025-08-28
+507,NM,NM-Region-1,Medicaid,Low,2024-03-05,2025-08-09
+508,AZ,AZ-Region-1,Medicaid,High,2024-01-19,2025-11-05
+509,NM,NM-Region-2,Medicaid,Medium,2024-03-14,2025-12-22
+510,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-06-04,2025-09-13
+511,NM,NM-Region-2,Medicaid,Low,2024-02-28,2025-12-24
+512,TX,TX-Region-3,Medicaid,Low,2024-04-07,2025-08-27
+513,AZ,AZ-Region-2,Medicaid,Medium,2024-04-02,2025-07-31
+514,AZ,AZ-Region-1,Medicaid,High,2024-02-19,2025-12-24
+515,AZ,AZ-Region-1,Medicaid,Low,2024-06-04,2025-08-15
+516,TX,TX-Region-2,Medicare Advantage,Low,2024-06-20,2025-09-23
+517,TX,TX-Region-3,Medicaid,Medium,2024-04-21,2025-11-06
+518,NM,NM-Region-3,Medicare Advantage,Medium,2024-06-09,2025-11-02
+519,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-05-28,2025-12-19
+520,TX,TX-Region-2,Medicaid,Medium,2024-06-23,2025-12-07
+521,NM,NM-Region-1,Medicaid,High,2024-02-06,2025-11-20
+522,NM,NM-Region-3,Medicaid,Medium,2024-02-10,2025-09-24
+523,TX,TX-Region-3,Medicare Advantage,Low,2024-04-14,2025-08-30
+524,TX,TX-Region-1,Medicare Advantage,Medium,2024-01-31,2025-08-24
+525,TX,TX-Region-3,Medicare Advantage,Low,2024-04-09,2025-09-14
+526,AZ,AZ-Region-2,Medicare Advantage,High,2024-01-07,2025-11-26
+527,AZ,AZ-Region-2,Medicaid,Low,2024-01-28,2025-11-08
+528,AZ,AZ-Region-1,Medicaid,Medium,2024-01-13,2025-11-05
+529,AZ,AZ-Region-2,Medicaid,High,2024-02-22,2025-10-19
+530,TX,TX-Region-2,Medicaid,Medium,2024-03-21,2025-09-23
+531,NM,NM-Region-2,Medicaid,Medium,2024-01-17,2025-12-20
+532,TX,TX-Region-2,Medicare Advantage,Medium,2024-05-01,2025-10-03
+533,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-04-13,2025-10-01
+534,AZ,AZ-Region-1,Medicaid,Low,2024-06-23,2025-07-23
+535,AZ,AZ-Region-2,Medicaid,Medium,2024-02-02,2025-11-07
+536,NM,NM-Region-1,Medicare Advantage,High,2024-02-12,2025-09-06
+537,AZ,AZ-Region-1,Medicare Advantage,Low,2024-03-15,2025-12-24
+538,AZ,AZ-Region-3,Medicare Advantage,High,2024-02-28,2025-08-22
+539,NM,NM-Region-3,Medicare Advantage,Medium,2024-03-19,2025-08-30
+540,TX,TX-Region-2,Medicare Advantage,Medium,2024-04-28,2025-08-21
+541,TX,TX-Region-2,Medicaid,Low,2024-01-17,2025-11-03
+542,NM,NM-Region-3,Medicaid,High,2024-05-17,2025-11-17
+543,NM,NM-Region-3,Medicaid,Low,2024-04-04,2025-07-29
+544,TX,TX-Region-3,Medicare Advantage,Low,2024-02-26,2025-11-15
+545,AZ,AZ-Region-1,Medicaid,Low,2024-01-05,2025-10-09
+546,TX,TX-Region-1,Medicare Advantage,High,2024-06-03,2025-12-17
+547,NM,NM-Region-2,Medicaid,Medium,2024-03-02,2025-10-07
+548,NM,NM-Region-1,Medicaid,High,2024-01-03,2025-12-26
+549,TX,TX-Region-2,Medicare Advantage,Low,2024-03-15,2025-10-16
+550,TX,TX-Region-3,Medicaid,Low,2024-01-16,2025-10-25
+551,TX,TX-Region-1,Medicaid,Medium,2024-03-16,2025-08-15
+552,AZ,AZ-Region-2,Medicaid,Medium,2024-04-27,2025-07-31
+553,TX,TX-Region-3,Medicaid,High,2024-04-07,2025-12-15
+554,TX,TX-Region-2,Medicaid,Medium,2024-01-08,2025-08-13
+555,AZ,AZ-Region-3,Medicare Advantage,High,2024-03-05,2025-07-14
+556,TX,TX-Region-1,Medicare Advantage,Medium,2024-04-02,2025-10-07
+557,AZ,AZ-Region-3,Medicare Advantage,Low,2024-06-04,2025-07-15
+558,AZ,AZ-Region-3,Medicaid,Low,2024-03-06,2025-11-07
+559,NM,NM-Region-1,Medicaid,Low,2024-04-17,2025-08-13
+560,AZ,AZ-Region-3,Medicaid,Medium,2024-06-03,2025-11-28
+561,NM,NM-Region-1,Medicaid,Low,2024-03-07,2025-08-06
+562,NM,NM-Region-2,Medicare Advantage,Low,2024-03-30,2025-12-15
+563,NM,NM-Region-1,Medicaid,Low,2024-03-22,2025-10-25
+564,TX,TX-Region-2,Medicare Advantage,Medium,2024-04-25,2025-10-06
+565,AZ,AZ-Region-2,Medicare Advantage,Low,2024-05-24,2025-12-10
+566,NM,NM-Region-3,Medicaid,Low,2024-05-18,2025-11-06
+567,TX,TX-Region-3,Medicare Advantage,High,2024-04-18,2025-11-15
+568,NM,NM-Region-2,Medicare Advantage,Medium,2024-05-11,2025-12-09
+569,AZ,AZ-Region-3,Medicaid,Low,2024-05-15,2025-11-21
+570,NM,NM-Region-3,Medicare Advantage,Medium,2024-03-08,2025-09-01
+571,AZ,AZ-Region-3,Medicaid,Medium,2024-01-27,2025-11-22
+572,TX,TX-Region-2,Medicare Advantage,Medium,2024-01-04,2025-10-26
+573,AZ,AZ-Region-1,Medicaid,Medium,2024-01-23,2025-09-14
+574,NM,NM-Region-1,Medicare Advantage,Low,2024-02-23,2025-10-23
+575,AZ,AZ-Region-3,Medicare Advantage,Low,2024-03-25,2025-11-01
+576,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-03-16,2025-11-24
+577,TX,TX-Region-2,Medicare Advantage,High,2024-03-27,2025-11-04
+578,AZ,AZ-Region-3,Medicare Advantage,Low,2024-06-27,2025-08-28
+579,AZ,AZ-Region-1,Medicaid,Low,2024-01-22,2025-11-08
+580,NM,NM-Region-3,Medicaid,Medium,2024-06-18,2025-11-30
+581,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-01-10,2025-12-15
+582,AZ,AZ-Region-1,Medicare Advantage,High,2024-03-05,2025-11-11
+583,TX,TX-Region-3,Medicare Advantage,Low,2024-04-05,2025-07-18
+584,AZ,AZ-Region-1,Medicaid,Low,2024-05-05,2025-11-05
+585,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-03-10,2025-12-26
+586,TX,TX-Region-3,Medicaid,Low,2024-06-23,2025-09-14
+587,NM,NM-Region-2,Medicaid,Medium,2024-04-09,2025-11-30
+588,AZ,AZ-Region-1,Medicare Advantage,Low,2024-03-18,2025-11-04
+589,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-02-28,2025-07-28
+590,NM,NM-Region-2,Medicaid,High,2024-01-27,2025-10-13
+591,TX,TX-Region-3,Medicare Advantage,High,2024-05-26,2025-10-13
+592,TX,TX-Region-2,Medicare Advantage,Medium,2024-06-20,2025-08-03
+593,TX,TX-Region-3,Medicare Advantage,High,2024-01-07,2025-09-04
+594,NM,NM-Region-1,Medicaid,Low,2024-03-12,2025-08-30
+595,AZ,AZ-Region-1,Medicare Advantage,Low,2024-01-27,2025-08-14
+596,TX,TX-Region-3,Medicaid,Low,2024-03-09,2025-09-05
+597,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-05-02,2025-11-15
+598,TX,TX-Region-3,Medicaid,Medium,2024-03-19,2025-12-18
+599,AZ,AZ-Region-2,Medicare Advantage,High,2024-01-29,2025-12-08
+600,AZ,AZ-Region-2,Medicaid,High,2024-03-02,2025-07-28
+601,AZ,AZ-Region-1,Medicaid,Medium,2024-03-02,2025-07-16
+602,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-06-25,2025-10-22
+603,TX,TX-Region-2,Medicare Advantage,Low,2024-01-02,2025-08-30
+604,NM,NM-Region-3,Medicaid,Medium,2024-06-05,2025-12-12
+605,NM,NM-Region-2,Medicare Advantage,Medium,2024-04-20,2025-10-27
+606,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-01-27,2025-12-22
+607,AZ,AZ-Region-2,Medicare Advantage,High,2024-04-09,2025-11-03
+608,AZ,AZ-Region-3,Medicaid,High,2024-01-10,2025-11-09
+609,AZ,AZ-Region-2,Medicaid,Low,2024-01-22,2025-09-23
+610,NM,NM-Region-3,Medicaid,Medium,2024-02-14,2025-10-25
+611,TX,TX-Region-1,Medicare Advantage,Medium,2024-06-12,2025-10-20
+612,AZ,AZ-Region-2,Medicaid,Low,2024-06-14,2025-08-09
+613,AZ,AZ-Region-1,Medicaid,Low,2024-03-25,2025-08-27
+614,NM,NM-Region-2,Medicare Advantage,Low,2024-03-13,2025-07-30
+615,NM,NM-Region-2,Medicare Advantage,Low,2024-02-10,2025-07-15
+616,AZ,AZ-Region-3,Medicaid,Low,2024-05-30,2025-09-12
+617,AZ,AZ-Region-2,Medicaid,Medium,2024-02-12,2025-07-09
+618,TX,TX-Region-3,Medicaid,Low,2024-02-27,2025-07-24
+619,AZ,AZ-Region-3,Medicare Advantage,High,2024-03-22,2025-11-24
+620,NM,NM-Region-2,Medicaid,Low,2024-06-22,2025-08-23
+621,TX,TX-Region-2,Medicaid,High,2024-01-08,2025-07-06
+622,NM,NM-Region-1,Medicare Advantage,High,2024-03-29,2025-11-23
+623,TX,TX-Region-3,Medicaid,Medium,2024-03-22,2025-11-06
+624,AZ,AZ-Region-2,Medicare Advantage,High,2024-06-16,2025-07-21
+625,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-04-07,2025-10-30
+626,AZ,AZ-Region-3,Medicaid,High,2024-05-14,2025-11-01
+627,AZ,AZ-Region-2,Medicaid,Low,2024-02-24,2025-12-29
+628,TX,TX-Region-1,Medicare Advantage,High,2024-03-25,2025-07-28
+629,TX,TX-Region-3,Medicaid,Low,2024-04-18,2025-11-15
+630,AZ,AZ-Region-2,Medicaid,Low,2024-01-27,2025-11-06
+631,AZ,AZ-Region-1,Medicare Advantage,Low,2024-02-21,2025-10-05
+632,TX,TX-Region-2,Medicaid,Medium,2024-05-12,2025-11-26
+633,TX,TX-Region-1,Medicare Advantage,Low,2024-04-06,2025-09-10
+634,TX,TX-Region-1,Medicare Advantage,Medium,2024-02-08,2025-08-04
+635,TX,TX-Region-3,Medicare Advantage,Low,2024-06-06,2025-11-05
+636,TX,TX-Region-2,Medicaid,Medium,2024-05-20,2025-07-25
+637,NM,NM-Region-2,Medicaid,Medium,2024-04-13,2025-10-08
+638,AZ,AZ-Region-1,Medicaid,Medium,2024-02-02,2025-07-27
+639,TX,TX-Region-3,Medicaid,Low,2024-05-01,2025-08-16
+640,NM,NM-Region-2,Medicaid,Low,2024-01-28,2025-12-21
+641,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-04-27,2025-08-11
+642,NM,NM-Region-2,Medicare Advantage,Medium,2024-06-23,2025-11-29
+643,NM,NM-Region-2,Medicaid,High,2024-06-05,2025-07-07
+644,NM,NM-Region-1,Medicaid,High,2024-06-24,2025-11-14
+645,NM,NM-Region-1,Medicaid,Low,2024-03-28,2025-12-06
+646,TX,TX-Region-1,Medicare Advantage,Medium,2024-01-07,2025-11-04
+647,NM,NM-Region-3,Medicaid,Medium,2024-06-19,2025-12-07
+648,NM,NM-Region-1,Medicare Advantage,Medium,2024-06-08,2025-12-06
+649,TX,TX-Region-1,Medicaid,Low,2024-04-02,2025-10-07
+650,TX,TX-Region-3,Medicare Advantage,High,2024-06-05,2025-10-10
+651,NM,NM-Region-1,Medicare Advantage,High,2024-06-22,2025-12-02
+652,AZ,AZ-Region-2,Medicaid,Medium,2024-05-15,2025-12-10
+653,TX,TX-Region-1,Medicaid,Low,2024-04-25,2025-11-05
+654,TX,TX-Region-1,Medicaid,Low,2024-03-19,2025-12-12
+655,AZ,AZ-Region-3,Medicare Advantage,Low,2024-03-04,2025-11-22
+656,AZ,AZ-Region-3,Medicare Advantage,Low,2024-03-15,2025-09-01
+657,AZ,AZ-Region-1,Medicaid,High,2024-03-02,2025-11-13
+658,TX,TX-Region-1,Medicaid,Medium,2024-02-17,2025-08-01
+659,TX,TX-Region-1,Medicaid,Low,2024-02-08,2025-11-04
+660,TX,TX-Region-1,Medicaid,Low,2024-02-28,2025-10-22
+661,AZ,AZ-Region-1,Medicare Advantage,High,2024-05-23,2025-08-23
+662,NM,NM-Region-2,Medicaid,Medium,2024-03-02,2025-07-15
+663,AZ,AZ-Region-1,Medicaid,Low,2024-04-13,2025-11-03
+664,NM,NM-Region-3,Medicaid,Low,2024-05-17,2025-11-18
+665,TX,TX-Region-2,Medicaid,High,2024-05-19,2025-09-08
+666,NM,NM-Region-1,Medicaid,High,2024-03-02,2025-11-24
+667,NM,NM-Region-1,Medicare Advantage,Low,2024-05-08,2025-07-12
+668,NM,NM-Region-3,Medicare Advantage,High,2024-01-22,2025-10-19
+669,NM,NM-Region-2,Medicare Advantage,Low,2024-04-28,2025-10-23
+670,NM,NM-Region-3,Medicaid,Low,2024-01-01,2025-07-20
+671,TX,TX-Region-2,Medicare Advantage,Low,2024-03-19,2025-12-27
+672,TX,TX-Region-1,Medicare Advantage,High,2024-06-05,2025-09-19
+673,AZ,AZ-Region-3,Medicare Advantage,Low,2024-05-04,2025-11-24
+674,TX,TX-Region-3,Medicaid,Low,2024-03-01,2025-09-14
+675,NM,NM-Region-3,Medicaid,Medium,2024-04-22,2025-11-27
+676,NM,NM-Region-2,Medicaid,Medium,2024-02-17,2025-11-27
+677,NM,NM-Region-3,Medicare Advantage,Medium,2024-04-09,2025-07-25
+678,NM,NM-Region-2,Medicaid,Low,2024-03-25,2025-08-29
+679,NM,NM-Region-2,Medicare Advantage,Low,2024-01-19,2025-07-14
+680,AZ,AZ-Region-3,Medicare Advantage,Low,2024-03-27,2025-08-02
+681,NM,NM-Region-3,Medicaid,Medium,2024-02-28,2025-08-21
+682,TX,TX-Region-1,Medicaid,High,2024-06-18,2025-07-19
+683,TX,TX-Region-2,Medicaid,High,2024-06-03,2025-11-07
+684,AZ,AZ-Region-1,Medicare Advantage,High,2024-05-12,2025-10-06
+685,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-05-29,2025-10-10
+686,AZ,AZ-Region-1,Medicare Advantage,Low,2024-05-29,2025-07-10
+687,AZ,AZ-Region-3,Medicaid,Medium,2024-04-21,2025-07-24
+688,NM,NM-Region-3,Medicare Advantage,High,2024-01-20,2025-07-19
+689,TX,TX-Region-1,Medicaid,High,2024-03-06,2025-11-25
+690,NM,NM-Region-3,Medicaid,Low,2024-04-17,2025-07-17
+691,NM,NM-Region-3,Medicare Advantage,Medium,2024-06-06,2025-08-26
+692,AZ,AZ-Region-3,Medicare Advantage,Low,2024-02-14,2025-07-09
+693,TX,TX-Region-1,Medicare Advantage,Medium,2024-06-11,2025-07-06
+694,TX,TX-Region-1,Medicaid,Low,2024-01-08,2025-09-28
+695,AZ,AZ-Region-1,Medicare Advantage,High,2024-04-28,2025-12-20
+696,AZ,AZ-Region-2,Medicaid,Low,2024-01-11,2025-09-25
+697,NM,NM-Region-2,Medicaid,Low,2024-02-19,2025-09-21
+698,NM,NM-Region-1,Medicare Advantage,Low,2024-02-06,2025-08-28
+699,AZ,AZ-Region-2,Medicare Advantage,Low,2024-04-13,2025-08-15
+700,AZ,AZ-Region-1,Medicaid,Low,2024-05-17,2025-11-23
+701,TX,TX-Region-3,Medicare Advantage,Low,2024-01-26,2025-10-07
+702,TX,TX-Region-2,Medicare Advantage,Medium,2024-04-29,2025-12-10
+703,NM,NM-Region-2,Medicaid,Low,2024-01-10,2025-07-17
+704,AZ,AZ-Region-1,Medicaid,Low,2024-03-27,2025-08-09
+705,TX,TX-Region-2,Medicare Advantage,Medium,2024-04-15,2025-12-23
+706,TX,TX-Region-3,Medicaid,Low,2024-06-16,2025-08-09
+707,AZ,AZ-Region-1,Medicare Advantage,Low,2024-01-13,2025-10-12
+708,NM,NM-Region-2,Medicare Advantage,Low,2024-03-17,2025-10-17
+709,TX,TX-Region-3,Medicare Advantage,Low,2024-01-18,2025-08-10
+710,NM,NM-Region-1,Medicare Advantage,Medium,2024-05-20,2025-09-14
+711,TX,TX-Region-3,Medicaid,High,2024-03-30,2025-12-18
+712,TX,TX-Region-3,Medicaid,Medium,2024-03-17,2025-07-25
+713,AZ,AZ-Region-1,Medicaid,High,2024-06-04,2025-08-23
+714,NM,NM-Region-2,Medicaid,Low,2024-06-14,2025-10-21
+715,TX,TX-Region-1,Medicare Advantage,Medium,2024-05-10,2025-10-17
+716,AZ,AZ-Region-3,Medicaid,Low,2024-02-21,2025-10-04
+717,TX,TX-Region-1,Medicare Advantage,Medium,2024-05-06,2025-08-04
+718,AZ,AZ-Region-1,Medicaid,Low,2024-03-21,2025-07-21
+719,AZ,AZ-Region-3,Medicaid,Low,2024-03-12,2025-09-14
+720,AZ,AZ-Region-1,Medicaid,Medium,2024-01-13,2025-07-18
+721,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-01-02,2025-08-09
+722,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-04-03,2025-10-11
+723,AZ,AZ-Region-3,Medicare Advantage,High,2024-03-21,2025-07-17
+724,NM,NM-Region-2,Medicaid,Low,2024-02-22,2025-08-26
+725,TX,TX-Region-3,Medicare Advantage,Low,2024-01-01,2025-11-18
+726,AZ,AZ-Region-3,Medicaid,Low,2024-05-19,2025-08-18
+727,TX,TX-Region-3,Medicaid,Medium,2024-04-24,2025-08-15
+728,AZ,AZ-Region-3,Medicare Advantage,Low,2024-03-25,2025-07-17
+729,AZ,AZ-Region-3,Medicaid,Low,2024-02-23,2025-07-08
+730,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-03-03,2025-09-19
+731,TX,TX-Region-3,Medicaid,Medium,2024-01-28,2025-11-24
+732,AZ,AZ-Region-2,Medicaid,Medium,2024-06-25,2025-11-19
+733,NM,NM-Region-2,Medicaid,Low,2024-03-23,2025-09-24
+734,AZ,AZ-Region-1,Medicare Advantage,Low,2024-02-17,2025-11-22
+735,AZ,AZ-Region-3,Medicaid,Low,2024-05-11,2025-07-19
+736,NM,NM-Region-1,Medicaid,Medium,2024-04-28,2025-08-12
+737,AZ,AZ-Region-2,Medicare Advantage,Low,2024-04-27,2025-10-20
+738,AZ,AZ-Region-3,Medicare Advantage,Low,2024-05-31,2025-12-27
+739,AZ,AZ-Region-2,Medicare Advantage,High,2024-04-14,2025-11-18
+740,AZ,AZ-Region-3,Medicaid,Low,2024-05-19,2025-08-22
+741,NM,NM-Region-3,Medicaid,Low,2024-03-06,2025-07-27
+742,TX,TX-Region-1,Medicaid,Low,2024-04-25,2025-11-24
+743,NM,NM-Region-1,Medicaid,Low,2024-02-15,2025-12-07
+744,AZ,AZ-Region-3,Medicaid,Medium,2024-04-16,2025-09-11
+745,AZ,AZ-Region-3,Medicaid,Medium,2024-04-13,2025-08-03
+746,TX,TX-Region-2,Medicaid,Medium,2024-03-01,2025-12-27
+747,AZ,AZ-Region-1,Medicaid,Medium,2024-04-11,2025-09-30
+748,TX,TX-Region-3,Medicaid,Low,2024-02-20,2025-12-02
+749,AZ,AZ-Region-2,Medicaid,Medium,2024-05-02,2025-08-29
+750,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-06-10,2025-12-01
+751,AZ,AZ-Region-1,Medicaid,Medium,2024-04-20,2025-08-25
+752,TX,TX-Region-2,Medicare Advantage,Medium,2024-03-19,2025-12-10
+753,AZ,AZ-Region-2,Medicaid,Low,2024-01-17,2025-12-15
+754,NM,NM-Region-2,Medicaid,Low,2024-03-18,2025-07-12
+755,AZ,AZ-Region-1,Medicaid,Medium,2024-05-22,2025-11-08
+756,AZ,AZ-Region-2,Medicare Advantage,Low,2024-06-11,2025-11-02
+757,NM,NM-Region-3,Medicaid,Low,2024-06-10,2025-12-06
+758,AZ,AZ-Region-1,Medicare Advantage,High,2024-05-25,2025-08-22
+759,AZ,AZ-Region-3,Medicare Advantage,High,2024-02-13,2025-09-04
+760,TX,TX-Region-3,Medicaid,Medium,2024-03-21,2025-07-22
+761,TX,TX-Region-1,Medicaid,High,2024-02-13,2025-09-19
+762,TX,TX-Region-1,Medicaid,Medium,2024-04-08,2025-11-30
+763,AZ,AZ-Region-3,Medicaid,High,2024-03-08,2025-11-22
+764,AZ,AZ-Region-1,Medicare Advantage,Low,2024-03-30,2025-12-04
+765,AZ,AZ-Region-3,Medicare Advantage,Low,2024-01-15,2025-07-14
+766,TX,TX-Region-3,Medicare Advantage,Medium,2024-04-17,2025-09-08
+767,NM,NM-Region-1,Medicare Advantage,Low,2024-05-25,2025-09-09
+768,NM,NM-Region-3,Medicare Advantage,Medium,2024-05-05,2025-07-12
+769,TX,TX-Region-1,Medicare Advantage,Low,2024-04-17,2025-12-28
+770,TX,TX-Region-1,Medicaid,Medium,2024-06-16,2025-09-01
+771,AZ,AZ-Region-2,Medicaid,High,2024-05-02,2025-10-26
+772,TX,TX-Region-3,Medicaid,Medium,2024-03-21,2025-11-21
+773,TX,TX-Region-3,Medicaid,High,2024-01-22,2025-08-04
+774,AZ,AZ-Region-3,Medicaid,Low,2024-02-29,2025-10-17
+775,AZ,AZ-Region-2,Medicare Advantage,Low,2024-03-13,2025-12-09
+776,AZ,AZ-Region-2,Medicaid,Low,2024-01-30,2025-12-07
+777,TX,TX-Region-3,Medicare Advantage,Low,2024-02-27,2025-09-29
+778,AZ,AZ-Region-3,Medicaid,High,2024-02-17,2025-12-22
+779,TX,TX-Region-2,Medicare Advantage,Low,2024-05-14,2025-08-28
+780,AZ,AZ-Region-1,Medicaid,High,2024-03-15,2025-12-16
+781,TX,TX-Region-1,Medicare Advantage,Low,2024-05-23,2025-12-26
+782,AZ,AZ-Region-3,Medicaid,Low,2024-03-16,2025-10-16
+783,NM,NM-Region-3,Medicaid,Medium,2024-03-19,2025-10-21
+784,AZ,AZ-Region-1,Medicare Advantage,High,2024-05-03,2025-12-20
+785,AZ,AZ-Region-1,Medicaid,Low,2024-04-29,2025-11-26
+786,AZ,AZ-Region-3,Medicare Advantage,Low,2024-04-27,2025-09-30
+787,AZ,AZ-Region-1,Medicaid,Low,2024-03-11,2025-07-05
+788,AZ,AZ-Region-3,Medicaid,Low,2024-06-22,2025-07-05
+789,AZ,AZ-Region-1,Medicaid,Low,2024-02-24,2025-12-03
+790,NM,NM-Region-1,Medicare Advantage,Medium,2024-01-16,2025-08-08
+791,AZ,AZ-Region-3,Medicare Advantage,Low,2024-02-03,2025-08-13
+792,TX,TX-Region-1,Medicaid,Low,2024-06-28,2025-09-12
+793,AZ,AZ-Region-1,Medicaid,Low,2024-03-19,2025-08-06
+794,AZ,AZ-Region-3,Medicaid,Medium,2024-03-27,2025-08-28
+795,AZ,AZ-Region-2,Medicaid,Medium,2024-02-03,2025-10-16
+796,AZ,AZ-Region-3,Medicaid,High,2024-06-07,2025-08-26
+797,AZ,AZ-Region-3,Medicaid,Low,2024-02-01,2025-10-27
+798,AZ,AZ-Region-2,Medicaid,Low,2024-01-17,2025-09-27
+799,AZ,AZ-Region-1,Medicare Advantage,Low,2024-05-18,2025-09-04
+800,TX,TX-Region-1,Medicare Advantage,Medium,2024-04-04,2025-10-01
+801,TX,TX-Region-3,Medicaid,High,2024-04-15,2025-12-08
+802,TX,TX-Region-1,Medicare Advantage,Medium,2024-01-12,2025-12-05
+803,AZ,AZ-Region-2,Medicaid,Low,2024-01-30,2025-10-09
+804,NM,NM-Region-1,Medicare Advantage,Medium,2024-02-11,2025-11-22
+805,AZ,AZ-Region-1,Medicare Advantage,Low,2024-06-13,2025-12-10
+806,TX,TX-Region-2,Medicaid,Low,2024-06-10,2025-07-25
+807,AZ,AZ-Region-1,Medicaid,Low,2024-03-30,2025-12-22
+808,NM,NM-Region-2,Medicaid,Medium,2024-03-05,2025-07-06
+809,TX,TX-Region-1,Medicaid,Medium,2024-01-29,2025-12-17
+810,NM,NM-Region-2,Medicare Advantage,Low,2024-05-17,2025-09-13
+811,TX,TX-Region-2,Medicaid,Medium,2024-02-27,2025-10-17
+812,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-05-06,2025-10-13
+813,TX,TX-Region-2,Medicaid,Low,2024-06-12,2025-08-06
+814,TX,TX-Region-3,Medicaid,Low,2024-05-23,2025-08-05
+815,TX,TX-Region-1,Medicare Advantage,Low,2024-05-23,2025-10-12
+816,AZ,AZ-Region-1,Medicare Advantage,High,2024-01-15,2025-11-18
+817,NM,NM-Region-3,Medicare Advantage,Medium,2024-04-18,2025-12-05
+818,AZ,AZ-Region-3,Medicaid,Low,2024-04-06,2025-12-01
+819,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-02-01,2025-07-17
+820,NM,NM-Region-3,Medicaid,Medium,2024-03-10,2025-08-01
+821,AZ,AZ-Region-3,Medicaid,Low,2024-03-29,2025-10-21
+822,AZ,AZ-Region-3,Medicaid,High,2024-06-15,2025-11-08
+823,TX,TX-Region-2,Medicaid,Low,2024-02-15,2025-08-27
+824,NM,NM-Region-1,Medicare Advantage,Low,2024-03-24,2025-10-23
+825,TX,TX-Region-1,Medicare Advantage,Low,2024-04-17,2025-09-14
+826,TX,TX-Region-1,Medicare Advantage,Medium,2024-06-21,2025-07-14
+827,AZ,AZ-Region-2,Medicaid,Low,2024-04-20,2025-09-14
+828,NM,NM-Region-2,Medicaid,Low,2024-03-30,2025-09-08
+829,TX,TX-Region-3,Medicaid,Low,2024-02-08,2025-07-06
+830,NM,NM-Region-2,Medicaid,Low,2024-06-03,2025-12-21
+831,AZ,AZ-Region-2,Medicaid,High,2024-04-25,2025-09-10
+832,NM,NM-Region-3,Medicaid,Medium,2024-02-21,2025-09-05
+833,NM,NM-Region-2,Medicare Advantage,Low,2024-06-01,2025-08-14
+834,TX,TX-Region-1,Medicaid,Low,2024-06-13,2025-11-16
+835,TX,TX-Region-1,Medicare Advantage,Medium,2024-04-27,2025-11-08
+836,TX,TX-Region-2,Medicaid,High,2024-01-07,2025-09-13
+837,AZ,AZ-Region-3,Medicare Advantage,Low,2024-01-23,2025-12-04
+838,AZ,AZ-Region-2,Medicaid,Medium,2024-04-06,2025-07-21
+839,TX,TX-Region-1,Medicaid,High,2024-06-06,2025-09-30
+840,NM,NM-Region-1,Medicaid,Medium,2024-04-15,2025-11-15
+841,AZ,AZ-Region-2,Medicaid,Low,2024-03-27,2025-12-25
+842,AZ,AZ-Region-2,Medicaid,Low,2024-05-14,2025-08-29
+843,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-06-10,2025-12-28
+844,AZ,AZ-Region-1,Medicaid,Low,2024-03-11,2025-07-07
+845,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-02-05,2025-07-07
+846,AZ,AZ-Region-3,Medicaid,Low,2024-06-04,2025-07-28
+847,NM,NM-Region-2,Medicare Advantage,Medium,2024-01-17,2025-11-23
+848,TX,TX-Region-3,Medicare Advantage,High,2024-06-06,2025-12-10
+849,AZ,AZ-Region-3,Medicare Advantage,High,2024-03-30,2025-12-31
+850,AZ,AZ-Region-2,Medicaid,Low,2024-03-10,2025-11-18
+851,TX,TX-Region-1,Medicaid,Medium,2024-01-30,2025-07-15
+852,NM,NM-Region-2,Medicaid,High,2024-06-15,2025-08-17
+853,AZ,AZ-Region-2,Medicare Advantage,Low,2024-04-26,2025-12-17
+854,AZ,AZ-Region-3,Medicaid,Medium,2024-01-03,2025-08-19
+855,TX,TX-Region-2,Medicaid,Low,2024-04-17,2025-09-28
+856,AZ,AZ-Region-2,Medicaid,High,2024-04-07,2025-09-30
+857,NM,NM-Region-3,Medicare Advantage,Medium,2024-03-25,2025-11-07
+858,NM,NM-Region-1,Medicaid,Low,2024-06-27,2025-09-04
+859,AZ,AZ-Region-3,Medicaid,Medium,2024-02-11,2025-11-09
+860,AZ,AZ-Region-3,Medicaid,Medium,2024-06-05,2025-08-31
+861,AZ,AZ-Region-3,Medicare Advantage,High,2024-02-04,2025-12-26
+862,TX,TX-Region-3,Medicaid,Low,2024-01-08,2025-09-01
+863,AZ,AZ-Region-1,Medicare Advantage,Low,2024-03-27,2025-12-16
+864,AZ,AZ-Region-3,Medicaid,Low,2024-03-11,2025-12-17
+865,NM,NM-Region-2,Medicare Advantage,High,2024-06-20,2025-12-31
+866,AZ,AZ-Region-1,Medicaid,Low,2024-02-19,2025-12-20
+867,NM,NM-Region-1,Medicaid,Medium,2024-06-17,2025-07-21
+868,TX,TX-Region-2,Medicaid,Medium,2024-01-25,2025-12-14
+869,AZ,AZ-Region-3,Medicaid,Medium,2024-03-03,2025-10-01
+870,NM,NM-Region-1,Medicaid,High,2024-03-08,2025-11-16
+871,NM,NM-Region-3,Medicaid,Low,2024-01-24,2025-07-09
+872,AZ,AZ-Region-3,Medicaid,Medium,2024-04-27,2025-10-11
+873,AZ,AZ-Region-3,Medicaid,Medium,2024-06-23,2025-10-30
+874,NM,NM-Region-3,Medicaid,High,2024-05-26,2025-11-27
+875,TX,TX-Region-3,Medicare Advantage,Low,2024-06-20,2025-11-11
+876,TX,TX-Region-3,Medicaid,Medium,2024-03-22,2025-10-17
+877,AZ,AZ-Region-1,Medicaid,High,2024-01-28,2025-08-31
+878,TX,TX-Region-2,Medicaid,Medium,2024-05-06,2025-07-17
+879,TX,TX-Region-3,Medicaid,Low,2024-01-16,2025-12-04
+880,AZ,AZ-Region-1,Medicare Advantage,Low,2024-03-25,2025-12-06
+881,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-03-04,2025-10-06
+882,TX,TX-Region-3,Medicaid,Medium,2024-05-25,2025-10-06
+883,NM,NM-Region-2,Medicaid,High,2024-02-14,2025-07-13
+884,AZ,AZ-Region-3,Medicaid,Medium,2024-05-14,2025-11-12
+885,NM,NM-Region-2,Medicaid,Low,2024-01-31,2025-12-11
+886,NM,NM-Region-2,Medicaid,Medium,2024-05-27,2025-09-22
+887,NM,NM-Region-2,Medicaid,High,2024-01-25,2025-11-04
+888,AZ,AZ-Region-3,Medicaid,High,2024-05-13,2025-07-12
+889,AZ,AZ-Region-3,Medicare Advantage,Medium,2024-04-08,2025-08-02
+890,NM,NM-Region-1,Medicaid,High,2024-02-04,2025-12-31
+891,NM,NM-Region-2,Medicare Advantage,High,2024-03-29,2025-08-10
+892,NM,NM-Region-2,Medicaid,Low,2024-03-13,2025-08-25
+893,AZ,AZ-Region-1,Medicaid,Medium,2024-05-25,2025-11-28
+894,NM,NM-Region-3,Medicaid,Low,2024-04-05,2025-09-18
+895,NM,NM-Region-1,Medicare Advantage,Low,2024-01-18,2025-10-05
+896,NM,NM-Region-1,Medicaid,Low,2024-01-09,2025-09-14
+897,AZ,AZ-Region-1,Medicaid,Medium,2024-04-30,2025-11-10
+898,TX,TX-Region-1,Medicaid,Medium,2024-01-02,2025-09-30
+899,AZ,AZ-Region-3,Medicaid,Low,2024-04-14,2025-12-24
+900,TX,TX-Region-3,Medicare Advantage,Low,2024-04-26,2025-12-21
+901,AZ,AZ-Region-1,Medicaid,Medium,2024-05-20,2025-12-20
+902,TX,TX-Region-3,Medicare Advantage,High,2024-05-09,2025-11-06
+903,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-06-05,2025-07-06
+904,TX,TX-Region-1,Medicaid,Medium,2024-05-09,2025-08-01
+905,TX,TX-Region-3,Medicare Advantage,Medium,2024-04-08,2025-10-11
+906,AZ,AZ-Region-3,Medicare Advantage,High,2024-02-28,2025-08-28
+907,TX,TX-Region-3,Medicaid,Medium,2024-01-15,2025-11-27
+908,NM,NM-Region-1,Medicare Advantage,Low,2024-01-30,2025-11-13
+909,TX,TX-Region-2,Medicaid,High,2024-03-20,2025-10-10
+910,TX,TX-Region-1,Medicare Advantage,Low,2024-01-10,2025-11-28
+911,TX,TX-Region-3,Medicaid,Medium,2024-05-05,2025-08-01
+912,NM,NM-Region-2,Medicaid,Low,2024-04-24,2025-08-28
+913,AZ,AZ-Region-1,Medicare Advantage,Low,2024-06-27,2025-10-03
+914,TX,TX-Region-2,Medicare Advantage,Low,2024-06-27,2025-12-12
+915,TX,TX-Region-3,Medicare Advantage,Low,2024-02-25,2025-11-27
+916,TX,TX-Region-3,Medicaid,High,2024-01-01,2025-07-13
+917,NM,NM-Region-1,Medicaid,Medium,2024-06-26,2025-10-30
+918,NM,NM-Region-3,Medicare Advantage,Low,2024-05-12,2025-11-14
+919,TX,TX-Region-3,Medicaid,Low,2024-04-21,2025-11-01
+920,AZ,AZ-Region-2,Medicare Advantage,Low,2024-03-22,2025-11-12
+921,TX,TX-Region-3,Medicaid,Low,2024-01-15,2025-11-12
+922,TX,TX-Region-1,Medicaid,Low,2024-04-14,2025-09-25
+923,NM,NM-Region-2,Medicaid,Medium,2024-01-01,2025-11-28
+924,AZ,AZ-Region-1,Medicaid,Low,2024-03-22,2025-07-26
+925,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-05-09,2025-09-22
+926,NM,NM-Region-1,Medicare Advantage,Medium,2024-01-22,2025-11-27
+927,NM,NM-Region-2,Medicaid,High,2024-01-17,2025-10-13
+928,TX,TX-Region-1,Medicare Advantage,Low,2024-04-03,2025-08-20
+929,TX,TX-Region-1,Medicaid,Medium,2024-01-16,2025-11-11
+930,TX,TX-Region-3,Medicare Advantage,High,2024-03-06,2025-12-23
+931,TX,TX-Region-3,Medicaid,Medium,2024-06-05,2025-07-19
+932,TX,TX-Region-1,Medicaid,Low,2024-04-06,2025-12-31
+933,NM,NM-Region-1,Medicare Advantage,High,2024-01-28,2025-09-17
+934,AZ,AZ-Region-2,Medicaid,Low,2024-02-03,2025-10-06
+935,AZ,AZ-Region-1,Medicare Advantage,High,2024-01-18,2025-09-10
+936,TX,TX-Region-2,Medicaid,Medium,2024-05-25,2025-08-03
+937,NM,NM-Region-2,Medicare Advantage,Medium,2024-03-07,2025-10-22
+938,AZ,AZ-Region-2,Medicaid,Medium,2024-03-08,2025-11-13
+939,AZ,AZ-Region-2,Medicaid,High,2024-06-23,2025-10-17
+940,AZ,AZ-Region-1,Medicare Advantage,Low,2024-06-03,2025-07-19
+941,NM,NM-Region-1,Medicaid,Low,2024-03-23,2025-10-30
+942,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-01-22,2025-08-28
+943,TX,TX-Region-2,Medicaid,Low,2024-06-06,2025-09-11
+944,AZ,AZ-Region-3,Medicare Advantage,Low,2024-04-19,2025-12-10
+945,AZ,AZ-Region-1,Medicaid,High,2024-02-04,2025-09-09
+946,AZ,AZ-Region-1,Medicaid,High,2024-03-05,2025-07-06
+947,AZ,AZ-Region-2,Medicaid,Medium,2024-03-01,2025-11-08
+948,TX,TX-Region-1,Medicare Advantage,High,2024-06-19,2025-12-15
+949,NM,NM-Region-2,Medicaid,Low,2024-04-17,2025-10-14
+950,NM,NM-Region-3,Medicare Advantage,Low,2024-03-11,2025-09-27
+951,NM,NM-Region-2,Medicare Advantage,Medium,2024-05-19,2025-10-23
+952,AZ,AZ-Region-2,Medicaid,Low,2024-02-27,2025-08-08
+953,AZ,AZ-Region-3,Medicaid,Low,2024-05-14,2025-10-14
+954,AZ,AZ-Region-2,Medicare Advantage,Low,2024-03-09,2025-11-01
+955,TX,TX-Region-1,Medicaid,Medium,2024-04-28,2025-10-15
+956,AZ,AZ-Region-1,Medicaid,Medium,2024-02-03,2025-09-26
+957,TX,TX-Region-3,Medicaid,Low,2024-01-31,2025-10-11
+958,AZ,AZ-Region-2,Medicaid,Medium,2024-01-06,2025-09-20
+959,TX,TX-Region-2,Medicare Advantage,Medium,2024-05-05,2025-09-26
+960,NM,NM-Region-3,Medicare Advantage,Medium,2024-02-25,2025-11-21
+961,AZ,AZ-Region-2,Medicare Advantage,Low,2024-05-09,2025-08-27
+962,TX,TX-Region-1,Medicare Advantage,Low,2024-01-22,2025-10-19
+963,AZ,AZ-Region-2,Medicaid,Low,2024-06-21,2025-10-05
+964,TX,TX-Region-1,Medicaid,High,2024-05-09,2025-09-27
+965,AZ,AZ-Region-2,Medicare Advantage,Low,2024-01-17,2025-09-06
+966,TX,TX-Region-3,Medicaid,Low,2024-05-28,2025-08-08
+967,TX,TX-Region-1,Medicaid,Low,2024-02-11,2025-09-22
+968,TX,TX-Region-3,Medicare Advantage,Medium,2024-05-11,2025-10-11
+969,TX,TX-Region-3,Medicaid,Low,2024-01-09,2025-10-14
+970,TX,TX-Region-1,Medicare Advantage,Low,2024-06-28,2025-12-06
+971,NM,NM-Region-3,Medicaid,Medium,2024-05-10,2025-11-20
+972,TX,TX-Region-3,Medicare Advantage,High,2024-03-03,2025-08-23
+973,TX,TX-Region-2,Medicare Advantage,Medium,2024-04-09,2025-09-06
+974,TX,TX-Region-1,Medicaid,Low,2024-02-23,2025-10-31
+975,TX,TX-Region-2,Medicare Advantage,Low,2024-06-05,2025-10-01
+976,TX,TX-Region-2,Medicaid,Medium,2024-02-12,2025-07-31
+977,AZ,AZ-Region-1,Medicaid,Medium,2024-03-03,2025-07-05
+978,TX,TX-Region-2,Medicaid,Medium,2024-02-18,2025-08-14
+979,AZ,AZ-Region-1,Medicaid,Low,2024-04-07,2025-12-06
+980,AZ,AZ-Region-1,Medicare Advantage,High,2024-03-27,2025-10-14
+981,NM,NM-Region-3,Medicare Advantage,Medium,2024-03-24,2025-12-12
+982,TX,TX-Region-3,Medicaid,Medium,2024-04-09,2025-10-15
+983,AZ,AZ-Region-2,Medicaid,High,2024-04-09,2025-12-10
+984,NM,NM-Region-3,Medicaid,High,2024-02-20,2025-10-22
+985,AZ,AZ-Region-3,Medicare Advantage,Low,2024-02-17,2025-08-19
+986,TX,TX-Region-1,Medicaid,Medium,2024-03-09,2025-12-09
+987,AZ,AZ-Region-1,Medicare Advantage,High,2024-01-17,2025-07-31
+988,TX,TX-Region-3,Medicaid,Low,2024-04-15,2025-08-29
+989,TX,TX-Region-3,Medicaid,Low,2024-02-07,2025-09-15
+990,TX,TX-Region-1,Medicaid,Medium,2024-05-24,2025-09-08
+991,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-04-15,2025-10-08
+992,AZ,AZ-Region-2,Medicaid,Low,2024-01-12,2025-10-12
+993,TX,TX-Region-1,Medicaid,Low,2024-05-06,2025-08-14
+994,AZ,AZ-Region-1,Medicaid,Medium,2024-01-10,2025-09-11
+995,TX,TX-Region-2,Medicaid,High,2024-03-26,2025-08-05
+996,AZ,AZ-Region-2,Medicare Advantage,Low,2024-05-16,2025-08-25
+997,NM,NM-Region-3,Medicaid,Low,2024-02-13,2025-10-19
+998,NM,NM-Region-3,Medicaid,High,2024-02-07,2025-08-02
+999,NM,NM-Region-2,Medicaid,Medium,2024-03-25,2025-11-05
+1000,TX,TX-Region-2,Medicaid,Medium,2024-02-26,2025-09-27
+1001,TX,TX-Region-1,Medicaid,Low,2024-02-01,2025-12-06
+1002,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-05-05,2025-10-06
+1003,TX,TX-Region-3,Medicaid,Low,2024-01-02,2025-12-14
+1004,NM,NM-Region-2,Medicaid,Medium,2024-04-23,2025-08-08
+1005,TX,TX-Region-3,Medicare Advantage,High,2024-02-22,2025-08-16
+1006,TX,TX-Region-3,Medicaid,Medium,2024-06-12,2025-07-24
+1007,TX,TX-Region-2,Medicare Advantage,Low,2024-04-03,2025-12-13
+1008,AZ,AZ-Region-1,Medicaid,Low,2024-01-24,2025-11-28
+1009,NM,NM-Region-2,Medicaid,Low,2024-06-02,2025-07-27
+1010,TX,TX-Region-2,Medicaid,High,2024-05-02,2025-10-17
+1011,AZ,AZ-Region-1,Medicaid,High,2024-01-02,2025-08-27
+1012,AZ,AZ-Region-2,Medicare Advantage,Low,2024-05-30,2025-07-17
+1013,TX,TX-Region-1,Medicaid,Low,2024-01-05,2025-10-19
+1014,TX,TX-Region-3,Medicaid,Low,2024-05-06,2025-12-25
+1015,TX,TX-Region-3,Medicare Advantage,High,2024-03-05,2025-08-22
+1016,TX,TX-Region-1,Medicaid,Low,2024-03-25,2025-07-17
+1017,TX,TX-Region-3,Medicaid,Low,2024-03-08,2025-09-19
+1018,NM,NM-Region-1,Medicaid,High,2024-04-10,2025-09-26
+1019,AZ,AZ-Region-1,Medicare Advantage,Low,2024-02-25,2025-09-24
+1020,NM,NM-Region-2,Medicaid,High,2024-04-18,2025-09-11
+1021,AZ,AZ-Region-1,Medicare Advantage,High,2024-02-02,2025-10-22
+1022,AZ,AZ-Region-2,Medicaid,Low,2024-04-30,2025-08-11
+1023,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-01-10,2025-08-14
+1024,TX,TX-Region-1,Medicaid,High,2024-01-25,2025-09-25
+1025,AZ,AZ-Region-1,Medicaid,Medium,2024-06-11,2025-10-30
+1026,AZ,AZ-Region-2,Medicare Advantage,Low,2024-06-17,2025-07-12
+1027,AZ,AZ-Region-2,Medicaid,Medium,2024-03-09,2025-09-25
+1028,AZ,AZ-Region-3,Medicaid,Medium,2024-03-31,2025-10-05
+1029,AZ,AZ-Region-2,Medicaid,Low,2024-02-07,2025-08-03
+1030,NM,NM-Region-3,Medicare Advantage,Medium,2024-05-09,2025-11-13
+1031,TX,TX-Region-3,Medicaid,High,2024-02-17,2025-11-11
+1032,TX,TX-Region-1,Medicare Advantage,Medium,2024-03-20,2025-09-12
+1033,NM,NM-Region-3,Medicare Advantage,Low,2024-06-06,2025-07-21
+1034,TX,TX-Region-3,Medicaid,Medium,2024-05-03,2025-11-13
+1035,TX,TX-Region-3,Medicare Advantage,Low,2024-03-27,2025-10-09
+1036,NM,NM-Region-1,Medicare Advantage,Medium,2024-05-24,2025-11-25
+1037,AZ,AZ-Region-3,Medicaid,Low,2024-06-12,2025-09-23
+1038,AZ,AZ-Region-2,Medicaid,High,2024-03-08,2025-11-28
+1039,NM,NM-Region-2,Medicare Advantage,High,2024-05-01,2025-08-16
+1040,AZ,AZ-Region-1,Medicaid,Low,2024-05-15,2025-10-01
+1041,AZ,AZ-Region-1,Medicaid,Low,2024-01-09,2025-08-09
+1042,NM,NM-Region-3,Medicaid,Medium,2024-02-09,2025-07-19
+1043,AZ,AZ-Region-2,Medicaid,Medium,2024-03-18,2025-09-26
+1044,NM,NM-Region-2,Medicare Advantage,Medium,2024-01-10,2025-09-28
+1045,NM,NM-Region-2,Medicaid,Medium,2024-04-01,2025-08-27
+1046,AZ,AZ-Region-1,Medicaid,Low,2024-06-04,2025-12-27
+1047,AZ,AZ-Region-1,Medicaid,High,2024-05-07,2025-09-26
+1048,AZ,AZ-Region-1,Medicaid,Medium,2024-02-09,2025-10-26
+1049,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-06-28,2025-07-13
+1050,TX,TX-Region-1,Medicaid,Medium,2024-04-24,2025-09-06
+1051,NM,NM-Region-2,Medicaid,High,2024-01-19,2025-08-19
+1052,NM,NM-Region-3,Medicaid,Medium,2024-01-17,2025-12-05
+1053,TX,TX-Region-2,Medicaid,Medium,2024-03-09,2025-07-18
+1054,NM,NM-Region-1,Medicaid,Low,2024-02-05,2025-07-17
+1055,AZ,AZ-Region-2,Medicaid,Low,2024-01-29,2025-11-11
+1056,TX,TX-Region-3,Medicaid,Low,2024-01-17,2025-12-02
+1057,AZ,AZ-Region-1,Medicaid,Medium,2024-01-09,2025-12-17
+1058,AZ,AZ-Region-1,Medicaid,Medium,2024-05-27,2025-10-28
+1059,AZ,AZ-Region-2,Medicaid,Medium,2024-02-28,2025-09-27
+1060,TX,TX-Region-2,Medicare Advantage,High,2024-06-08,2025-12-05
+1061,AZ,AZ-Region-3,Medicare Advantage,Low,2024-03-12,2025-11-08
+1062,AZ,AZ-Region-3,Medicare Advantage,Low,2024-02-07,2025-08-17
+1063,NM,NM-Region-2,Medicaid,High,2024-03-22,2025-08-21
+1064,TX,TX-Region-2,Medicaid,Medium,2024-06-01,2025-07-29
+1065,AZ,AZ-Region-2,Medicaid,High,2024-05-27,2025-08-29
+1066,AZ,AZ-Region-2,Medicaid,Low,2024-05-14,2025-09-28
+1067,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-05-19,2025-09-20
+1068,NM,NM-Region-2,Medicaid,High,2024-01-17,2025-10-22
+1069,AZ,AZ-Region-2,Medicaid,High,2024-04-28,2025-07-23
+1070,AZ,AZ-Region-3,Medicaid,High,2024-06-10,2025-11-18
+1071,NM,NM-Region-2,Medicaid,Low,2024-01-03,2025-10-07
+1072,NM,NM-Region-1,Medicaid,Low,2024-05-24,2025-12-25
+1073,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-01-17,2025-11-10
+1074,AZ,AZ-Region-2,Medicare Advantage,High,2024-01-21,2025-12-08
+1075,TX,TX-Region-2,Medicaid,Low,2024-04-10,2025-07-17
+1076,NM,NM-Region-2,Medicaid,Medium,2024-03-08,2025-11-16
+1077,AZ,AZ-Region-1,Medicare Advantage,Medium,2024-04-08,2025-10-12
+1078,AZ,AZ-Region-3,Medicare Advantage,Low,2024-04-01,2025-07-14
+1079,TX,TX-Region-3,Medicare Advantage,Low,2024-05-19,2025-10-24
+1080,TX,TX-Region-2,Medicaid,Medium,2024-01-12,2025-12-19
+1081,NM,NM-Region-3,Medicaid,Medium,2024-06-21,2025-11-27
+1082,TX,TX-Region-2,Medicare Advantage,Low,2024-04-26,2025-08-16
+1083,AZ,AZ-Region-2,Medicaid,Medium,2024-03-11,2025-10-27
+1084,AZ,AZ-Region-3,Medicaid,Medium,2024-06-26,2025-08-01
+1085,AZ,AZ-Region-2,Medicare Advantage,High,2024-05-30,2025-10-02
+1086,TX,TX-Region-1,Medicare Advantage,Medium,2024-03-29,2025-10-14
+1087,NM,NM-Region-3,Medicaid,High,2024-01-22,2025-09-09
+1088,AZ,AZ-Region-2,Medicaid,Low,2024-02-06,2025-10-29
+1089,TX,TX-Region-2,Medicaid,Medium,2024-03-27,2025-12-16
+1090,NM,NM-Region-3,Medicare Advantage,Low,2024-05-20,2025-07-16
+1091,AZ,AZ-Region-1,Medicaid,Low,2024-05-27,2025-12-08
+1092,AZ,AZ-Region-2,Medicare Advantage,Low,2024-05-07,2025-12-25
+1093,AZ,AZ-Region-2,Medicaid,Medium,2024-02-22,2025-08-11
+1094,TX,TX-Region-3,Medicare Advantage,Low,2024-05-04,2025-07-06
+1095,AZ,AZ-Region-1,Medicare Advantage,Low,2024-04-25,2025-12-21
+1096,AZ,AZ-Region-2,Medicaid,Low,2024-02-08,2025-09-21
+1097,TX,TX-Region-3,Medicare Advantage,High,2024-05-02,2025-09-24
+1098,TX,TX-Region-2,Medicare Advantage,Medium,2024-03-24,2025-11-11
+1099,NM,NM-Region-2,Medicaid,Medium,2024-03-09,2025-12-23
+1100,TX,TX-Region-2,Medicare Advantage,Low,2024-04-23,2025-10-17
+1101,TX,TX-Region-2,Medicare Advantage,Medium,2024-05-10,2025-08-21
+1102,TX,TX-Region-1,Medicaid,Medium,2024-01-26,2025-10-21
+1103,AZ,AZ-Region-3,Medicare Advantage,Low,2024-06-13,2025-12-29
+1104,NM,NM-Region-2,Medicare Advantage,Medium,2024-05-28,2025-10-27
+1105,NM,NM-Region-1,Medicare Advantage,Low,2024-04-11,2025-07-11
+1106,NM,NM-Region-3,Medicare Advantage,Low,2024-03-04,2025-12-11
+1107,TX,TX-Region-2,Medicaid,Low,2024-01-08,2025-11-04
+1108,NM,NM-Region-2,Medicare Advantage,Medium,2024-01-15,2025-09-29
+1109,TX,TX-Region-1,Medicaid,Medium,2024-04-18,2025-09-05
+1110,TX,TX-Region-2,Medicaid,High,2024-03-20,2025-09-21
+1111,NM,NM-Region-1,Medicare Advantage,Medium,2024-03-31,2025-10-03
+1112,NM,NM-Region-3,Medicare Advantage,Low,2024-05-12,2025-11-20
+1113,TX,TX-Region-1,Medicare Advantage,High,2024-03-06,2025-12-07
+1114,NM,NM-Region-2,Medicaid,Medium,2024-06-28,2025-08-01
+1115,AZ,AZ-Region-2,Medicare Advantage,High,2024-02-22,2025-10-27
+1116,AZ,AZ-Region-3,Medicare Advantage,Low,2024-02-06,2025-08-06
+1117,AZ,AZ-Region-1,Medicaid,Low,2024-05-08,2025-09-06
+1118,TX,TX-Region-2,Medicaid,Low,2024-03-15,2025-11-17
+1119,TX,TX-Region-3,Medicare Advantage,Low,2024-01-24,2025-12-04
+1120,AZ,AZ-Region-2,Medicaid,Low,2024-01-11,2025-10-14
+1121,NM,NM-Region-2,Medicare Advantage,High,2024-05-17,2025-10-18
+1122,AZ,AZ-Region-3,Medicaid,High,2024-02-28,2025-11-23
+1123,AZ,AZ-Region-2,Medicare Advantage,Low,2024-06-24,2025-10-14
+1124,TX,TX-Region-1,Medicaid,Low,2024-04-26,2025-07-21
+1125,AZ,AZ-Region-1,Medicaid,Medium,2024-02-23,2025-11-26
+1126,NM,NM-Region-3,Medicaid,Medium,2024-03-09,2025-08-26
+1127,AZ,AZ-Region-1,Medicaid,Low,2024-04-09,2025-07-21
+1128,AZ,AZ-Region-3,Medicaid,Low,2024-03-06,2025-12-11
+1129,AZ,AZ-Region-3,Medicaid,Low,2024-01-17,2025-10-13
+1130,AZ,AZ-Region-2,Medicaid,Medium,2024-01-02,2025-07-09
+1131,AZ,AZ-Region-3,Medicaid,High,2024-06-27,2025-12-30
+1132,TX,TX-Region-1,Medicaid,Low,2024-05-11,2025-08-14
+1133,AZ,AZ-Region-2,Medicare Advantage,High,2024-03-21,2025-09-17
+1134,AZ,AZ-Region-2,Medicaid,High,2024-06-25,2025-07-24
+1135,NM,NM-Region-2,Medicare Advantage,Low,2024-06-01,2025-08-11
+1136,AZ,AZ-Region-3,Medicaid,Medium,2024-03-22,2025-07-08
+1137,NM,NM-Region-2,Medicaid,High,2024-03-02,2025-09-17
+1138,AZ,AZ-Region-1,Medicare Advantage,Low,2024-02-27,2025-09-11
+1139,NM,NM-Region-1,Medicaid,Medium,2024-04-06,2025-10-01
+1140,NM,NM-Region-1,Medicare Advantage,Low,2024-03-09,2025-07-26
+1141,AZ,AZ-Region-1,Medicare Advantage,Low,2024-01-30,2025-09-09
+1142,AZ,AZ-Region-2,Medicaid,Medium,2024-06-02,2025-08-24
+1143,TX,TX-Region-3,Medicaid,Low,2024-02-13,2025-07-22
+1144,AZ,AZ-Region-3,Medicaid,High,2024-06-20,2025-10-29
+1145,NM,NM-Region-2,Medicaid,Medium,2024-04-19,2025-10-24
+1146,TX,TX-Region-1,Medicaid,Low,2024-05-06,2025-07-23
+1147,NM,NM-Region-3,Medicaid,High,2024-03-07,2025-08-13
+1148,NM,NM-Region-2,Medicare Advantage,Medium,2024-02-12,2025-11-13
+1149,AZ,AZ-Region-1,Medicare Advantage,Low,2024-04-07,2025-08-08
+1150,NM,NM-Region-2,Medicaid,Low,2024-04-23,2025-08-29
+1151,TX,TX-Region-3,Medicaid,Medium,2024-01-20,2025-12-07
+1152,AZ,AZ-Region-2,Medicaid,Medium,2024-06-03,2025-11-22
+1153,AZ,AZ-Region-1,Medicaid,High,2024-06-05,2025-07-18
+1154,AZ,AZ-Region-3,Medicaid,Low,2024-01-16,2025-12-09
+1155,AZ,AZ-Region-2,Medicaid,Medium,2024-04-26,2025-07-08
+1156,AZ,AZ-Region-1,Medicaid,Low,2024-04-16,2025-12-09
+1157,NM,NM-Region-1,Medicaid,Medium,2024-05-23,2025-11-23
+1158,NM,NM-Region-2,Medicare Advantage,Low,2024-04-22,2025-08-20
+1159,NM,NM-Region-2,Medicaid,Low,2024-06-17,2025-10-21
+1160,AZ,AZ-Region-2,Medicaid,Medium,2024-05-29,2025-12-26
+1161,NM,NM-Region-3,Medicaid,High,2024-05-30,2025-07-09
+1162,NM,NM-Region-3,Medicaid,High,2024-05-17,2025-12-23
+1163,TX,TX-Region-2,Medicaid,Low,2024-02-03,2025-11-27
+1164,TX,TX-Region-3,Medicaid,Low,2024-06-24,2025-08-07
+1165,TX,TX-Region-1,Medicare Advantage,Medium,2024-03-07,2025-08-15
+1166,TX,TX-Region-2,Medicaid,Medium,2024-03-03,2025-12-03
+1167,AZ,AZ-Region-3,Medicaid,High,2024-06-24,2025-12-08
+1168,TX,TX-Region-2,Medicaid,Low,2024-01-29,2025-07-22
+1169,TX,TX-Region-3,Medicaid,Low,2024-03-14,2025-07-08
+1170,TX,TX-Region-1,Medicaid,Medium,2024-04-24,2025-12-06
+1171,NM,NM-Region-2,Medicaid,Low,2024-03-05,2025-10-26
+1172,TX,TX-Region-3,Medicare Advantage,Low,2024-03-05,2025-08-05
+1173,TX,TX-Region-1,Medicare Advantage,Medium,2024-04-09,2025-12-04
+1174,AZ,AZ-Region-3,Medicare Advantage,Low,2024-05-10,2025-10-17
+1175,TX,TX-Region-1,Medicare Advantage,Low,2024-06-06,2025-10-24
+1176,NM,NM-Region-3,Medicare Advantage,Low,2024-06-07,2025-07-24
+1177,TX,TX-Region-3,Medicaid,Medium,2024-01-31,2025-12-21
+1178,AZ,AZ-Region-1,Medicare Advantage,Low,2024-01-02,2025-09-20
+1179,NM,NM-Region-3,Medicare Advantage,Medium,2024-04-02,2025-12-12
+1180,AZ,AZ-Region-2,Medicaid,Low,2024-04-30,2025-07-25
+1181,NM,NM-Region-1,Medicaid,Medium,2024-02-20,2025-12-27
+1182,AZ,AZ-Region-2,Medicaid,Medium,2024-02-04,2025-10-17
+1183,AZ,AZ-Region-1,Medicare Advantage,Low,2024-06-23,2025-08-23
+1184,TX,TX-Region-2,Medicaid,Low,2024-06-09,2025-07-07
+1185,AZ,AZ-Region-2,Medicaid,High,2024-03-29,2025-07-11
+1186,AZ,AZ-Region-1,Medicare Advantage,High,2024-05-07,2025-07-07
+1187,TX,TX-Region-2,Medicaid,Medium,2024-03-03,2025-10-24
+1188,TX,TX-Region-2,Medicaid,Low,2024-05-25,2025-12-25
+1189,NM,NM-Region-1,Medicaid,Medium,2024-01-29,2025-08-03
+1190,TX,TX-Region-1,Medicaid,Low,2024-05-24,2025-12-09
+1191,NM,NM-Region-1,Medicaid,Medium,2024-06-06,2025-12-13
+1192,NM,NM-Region-1,Medicaid,Medium,2024-02-02,2025-12-14
+1193,NM,NM-Region-1,Medicaid,Medium,2024-03-10,2025-09-03
+1194,TX,TX-Region-3,Medicaid,Low,2024-03-28,2025-10-08
+1195,NM,NM-Region-3,Medicaid,Medium,2024-05-06,2025-09-10
+1196,NM,NM-Region-1,Medicare Advantage,Low,2024-01-12,2025-11-27
+1197,AZ,AZ-Region-2,Medicaid,Medium,2024-02-01,2025-11-21
+1198,AZ,AZ-Region-2,Medicaid,Medium,2024-04-01,2025-11-01
+1199,AZ,AZ-Region-2,Medicare Advantage,Medium,2024-01-01,2025-09-22
+1200,NM,NM-Region-2,Medicare Advantage,Low,2024-04-30,2025-08-12
