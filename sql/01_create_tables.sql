@@ -42,7 +42,7 @@ GO
 -------------------------------------------------- */
 
 CREATE TABLE dbo.dim_member (
-    member_id INT NOT NULLL PRIMARY KEY,
+    member_id INT NOT NULL PRIMARY KEY,
     service_area VARHCAR(10) NOT NULL,
     subregion VARCHAR(50) NOT NULL,
     plan_type VARCHAR(50) NOT NULL,
@@ -87,7 +87,7 @@ GO
 
 CREATE TABLE dbo.fact_claims (
     claim_id INT NOT NULL PRIMARY KEY,
-    member_id IN NOT NULL,
+    member_id INT NOT NULL,
     provider_id INT NOT NULL,
     service_code VARCHAR(20) NOT NULL,
     claim_date DATE NOT NULL,
