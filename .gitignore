@@ -1,4 +1,20 @@
+# Local database / BI files
+*.bak
+*.mdf
+*.ldf
+*.pbix
+
+# Windows / editor files
 .vs/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary exports
+exports/
+*.tmp
+
+# Visual Studio / SQL workspace files
 *.suo
 *.sqlite
 *.vsidx

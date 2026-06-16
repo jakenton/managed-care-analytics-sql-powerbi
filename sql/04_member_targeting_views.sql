@@ -167,7 +167,7 @@ WITH base AS (
         b.member_months,
         b.total_allowed_medical_cost,
         b.ed_visits,
-        b.medical_pmpmm
+        b.medical_pmpmm,
         b.ed_visits_per_1000_member_months,
         m.service_area,
         m.subregion,
