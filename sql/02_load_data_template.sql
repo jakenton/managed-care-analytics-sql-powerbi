@@ -31,7 +31,7 @@ WITH (
     TABLOCK
 );
 
-BULK INSERT dbo,dim_provider
+BULK INSERT dbo.dim_provider
 FROM 'C:\Data-Analytics-Projects\managed-care-project\managed-care-analytics-sql-powerbi\raw_data_simulated\dim_provider.csv'
 WITH (
     FORMAT = 'CSV',

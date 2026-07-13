@@ -133,7 +133,7 @@ SELECT
             WHEN y24.medical_pmpm_2024 = 0 THEN NULL
             ELSE (y25.medical_pmpm_2025 - y24.medical_pmpm_2024) / y24.medical_pmpm_2024
         END AS DECIMAL(8,4)
-    ) AS pmpm_change_amount,
+    ) AS pmpm_change_percent,
     CASE
         WHEN y24.member_months_2024 >= 6
          AND y25.member_months_2025 >= 6
@@ -167,14 +167,14 @@ WITH base AS (
         b.member_months,
         b.total_allowed_medical_cost,
         b.ed_visits,
-        b.medical_pmpmm,
+        b.medical_pmpm,
         b.ed_visits_per_1000_member_months,
         m.service_area,
         m.subregion,
         m.plan_type,
         m.risk_category
     FROM dbo.vw_member_year_base AS b
-    JOIN dbo.vw_dim_member AS m
+    JOIN dbo.dim_member AS m
       ON m.member_id = b.member_id
 ),
 flags AS (

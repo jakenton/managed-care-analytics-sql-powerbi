@@ -43,7 +43,7 @@ GO
 
 CREATE TABLE dbo.dim_member (
     member_id INT NOT NULL PRIMARY KEY,
-    service_area VARHCAR(10) NOT NULL,
+    service_area VARCHAR(10) NOT NULL,
     subregion VARCHAR(50) NOT NULL,
     plan_type VARCHAR(50) NOT NULL,
     risk_category VARCHAR(20) NOT NULL,
@@ -97,7 +97,7 @@ CREATE TABLE dbo.fact_claims (
 GO
 
 CREATE TABLE dbo.fact_rx_fills (
-    rx_id INT NOT NULL PRIMARY KEY
+    rx_id INT NOT NULL PRIMARY KEY,
     member_id INT NOT NULL,
     pharmacy_id INT NOT NULL,
     ndc_code VARCHAR(20) NOT NULL,

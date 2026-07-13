@@ -57,9 +57,9 @@ FROM dbo.fact_claims
 UNION ALL
 
 SELECT
-    'fact_quality_measure',
+    'fact_quality_measures',
     COUNT(*)
-FROM dbo.fact_quality_measure
+FROM dbo.fact_quality_measures
 
 UNION ALL
 
@@ -81,7 +81,7 @@ GO
 SELECT
     'claims_missing_member' AS check_name,
     COUNT(*) AS issue_count
-FROM dbo.fact_claims c
+FROM dbo.fact_claims AS c
 LEFT JOIN dbo.dim_member AS m
   ON m.member_id = c.member_id
 WHERE m.member_id IS NULL
@@ -113,8 +113,8 @@ SELECT
     COUNT(*)
 FROM dbo.fact_rx_fills AS r
 LEFT JOIN dbo.dim_member AS m
-  ON s.member_id = c.member_id
-WHERE s.member_id IS NULL
+  ON m.member_id = r.member_id
+WHERE m.member_id IS NULL
 
 UNION ALL
 
@@ -123,15 +123,15 @@ SELECT
     COUNT(*)
 FROM dbo.fact_rx_fills AS r
 LEFT JOIN dbo.dim_drug AS d
-  ON s.ndc_code = c.ndc_code
-WHERE s.ndc_code IS NULL
+  ON d.ndc_code = r.ndc_code
+WHERE d.ndc_code IS NULL
 
 UNION ALL
 
 SELECT
     'quality_missing_member',
     COUNT(*)
-FROM dbo.fact_quality_measure AS q
+FROM dbo.fact_quality_measures AS q
 LEFT JOIN dbo.dim_member AS m
   ON m.member_id = q.member_id
 WHERE m.member_id IS NULL;
