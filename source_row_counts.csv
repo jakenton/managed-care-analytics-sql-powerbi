@@ -1,0 +1,8 @@
+﻿dim_date,731
+dim_drug,10
+dim_member,1200
+dim_provider,120
+dim_service,25
+fact_claims,17135
+fact_quality_measures,7200
+fact_rx_fills,2949
