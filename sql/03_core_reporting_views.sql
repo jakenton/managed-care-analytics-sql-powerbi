@@ -170,7 +170,14 @@ claims AS (
         SUM(CASE WHEN ed_flag = 1 THEN 1 ELSE 0 END) AS ed_visits
     FROM dbo.fact_claims
     GROUP BY DATEFROMPARTS(YEAR(claim_date), MONTH(claim_date), 1)
+),
+
+maximum_enrollment AS (
+    SELECT
+        MAX(member_months) AS maximum_member_months
+    FROM member_months
 )
+
 SELECT
     mm.month_start,
     YEAR(mm.month_start) AS measurement_year,
@@ -179,10 +186,13 @@ SELECT
     COALESCE(c.total_allowed_medical_cost, 0) AS total_allowed_medical_cost,
     COALESCE(c.ed_visits, 0) AS ed_visits,
     CAST(COALESCE(c.total_allowed_medical_cost, 0) / NULLIF(mm.member_months, 0) AS DECIMAL(12,2)) AS medical_pmpm,
-    CAST(1000.0 * COALESCE(c.ed_visits, 0) / NULLIF(mm.member_months, 0) AS DECIMAL(12,2)) AS ed_visits_per_1000_member_months
+    CAST(1000.0 * COALESCE(c.ed_visits, 0) / NULLIF(mm.member_months, 0) AS DECIMAL(12,2)) AS ed_visits_per_1000_member_months,
+    CASE WHEN mm.member.months >= 0.90 * me.maximum_member_months THEN 1 ELSE 0 END AS is_steady_state_month
+    -- This steady_state flag identifies months where enrollment is at least 90% of the highest monthly enrollment in the dataset.
 FROM member_months mm
 LEFT JOIN claims c
-  ON c.month_start = mm.month_start;
+  ON c.month_start = mm.month_start
+CROSS JOIN maximum_enrollment me;
 GO
 
 /* -----------------------------------------------------------------------------
