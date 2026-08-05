@@ -187,7 +187,7 @@ SELECT
     COALESCE(c.ed_visits, 0) AS ed_visits,
     CAST(COALESCE(c.total_allowed_medical_cost, 0) / NULLIF(mm.member_months, 0) AS DECIMAL(12,2)) AS medical_pmpm,
     CAST(1000.0 * COALESCE(c.ed_visits, 0) / NULLIF(mm.member_months, 0) AS DECIMAL(12,2)) AS ed_visits_per_1000_member_months,
-    CASE WHEN mm.member.months >= 0.90 * me.maximum_member_months THEN 1 ELSE 0 END AS is_steady_state_month
+    CASE WHEN mm.member_months >= 0.90 * me.maximum_member_months THEN 1 ELSE 0 END AS is_steady_state_month
     -- This steady_state flag identifies months where enrollment is at least 90% of the highest monthly enrollment in the dataset.
 FROM member_months mm
 LEFT JOIN claims c
