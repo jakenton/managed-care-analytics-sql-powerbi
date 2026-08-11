@@ -1,6 +1,6 @@
-# Managed Care Analytics: SQL Server + Power BI
+# &#128211; Managed Care Analytics: SQL Server + Power BI
 
-## Project Overview
+## &#128506; Project Overview
 
 This portfolio project simulates a managed care analytics workflow using **SQL Server** and **Power BI**. The project was designed to practice working with payer-style healthcare data and translating claims, enrollment, utilization, and quality data into reporting metrics that could support operational and care-management decisions.
 
@@ -21,7 +21,7 @@ The project focuses on several common managed care analytics concepts, including
 
 ---
 
-## Business Questions
+## &#128269; Business Questions
 
 The project was built around questions that a payer or managed care analytics team might need to answer:
 
@@ -38,7 +38,7 @@ These questions guided the SQL reporting layer and the Power BI dashboard design
 
 ---
 
-## Tools and Skills Demonstrated
+## &#128187; Tools and Skills Demonstrated
 
 ### SQL Server
 
@@ -82,7 +82,7 @@ These questions guided the SQL reporting layer and the Power BI dashboard design
 
 ---
 
-## Data Model
+## &#128200; Data Model
 
 The simulated dataset follows a simplified dimensional structure.
 
@@ -108,7 +108,7 @@ This structure separates descriptive attributes from transactional and measureme
 
 ---
 
-## SQL Workflow
+## ![SQL Logo]("C:\Data-Analytics-Projects\managed-care-project\managed-care-analytics-sql-powerbi\sql\Sql_data_base_with_logo.png") SQL Workflow
 
 The SQL portion of the project is organized as a sequence of scripts.
 
@@ -160,7 +160,7 @@ The checks include
 
 ---
 
-## Core Healthcare Metrics
+## &#127973; Core Healthcare Metrics
 
 ### Member Months
 
@@ -210,7 +210,7 @@ This distinction is important because a technically correct metric does not alwa
 
 ---
 
-# Care-Management Targeting
+# &#127919; Care-Management Targeting
 
 The project creates a transparent member-level targeting framework based on three analytical rules.
 
@@ -232,7 +232,7 @@ The purpose is not to determine clinical and automatically. Instead, the output 
 
 ---
 
-## Data Validation
+## &#128221; Data Validation
 
 Validation is treated as a separate step in the workflow rather than assuming that successful query execution means the results are correct.
 
@@ -249,11 +249,11 @@ Validation outputs are documented separately in `validation_results.md`, with su
 
 ---
 
-## Power BI Dashboard 
+## &#128202; Power BI Dashboard 
 
 The Power BI report is designed as a multi-page managed care analytics dashboard.
 
-### Page 1 &endash; Executive Overview
+### Page 1 &ndash; Executive Overview
 
 The Executive Overview summarizes plan-level performance using the following:
 
@@ -281,7 +281,7 @@ These pages provide progressively more detailed analysis while keeping the execu
 
 ---
 
-## Dashboard Design
+## &#127912; Dashboard Design
 
 The dashboard uses a consistent visual design intended to emphasize readability rather than decorative complexity.
 
@@ -302,7 +302,7 @@ Maroon is used as the primary data and navigation color, while muted gold is use
 
 ---
 
-## Project Structure
+## &#127970; Project Structure
 
 ```text
 managed-care-analytics/
@@ -357,7 +357,7 @@ The scripts are intentionally numbered so that the expected execution order is c
 
 ---
 
-## Documentation
+## &#128209; Documentation
 
 The repository includes supporting documentation intended to make the analytical logic easier to review and reproduce.
 
